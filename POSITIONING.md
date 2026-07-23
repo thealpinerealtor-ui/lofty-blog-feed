@@ -34,7 +34,7 @@
 - Divorce/estate content: compassionate, never predatory. No implication that Ryan takes sides.
 
 ## Standard bio block (append to every post)
-> Ryan Berner is a real estate agent with West and Company, brokered by eXp Realty, serving Kalispell, Whitefish, and the greater Flathead Valley. A US Army veteran and former government protective-services officer, Ryan brings calm, disciplined execution to every transaction — especially when the circumstances are complicated. Have a question about your situation? Email Ryan directly at **ryan@westcompanies.com** for a confidential, no-pressure conversation.
+> Ryan Berner is a real estate agent with West and Company, brokered by eXp Realty, serving Kalispell, Whitefish, and the greater Flathead Valley. A US Army veteran and former government protective-services officer, Ryan brings calm, disciplined execution to every transaction — especially when the circumstances are complicated. Have a question about your situation? Email Ryan directly at **ryan@westcompanies.com**, or call or text his office anytime at **(406) 602-1418** — the line is answered around the clock. Every conversation is confidential and no-pressure.
 
 ## Contact CTA rule
-Every post's closing CTA must include the direct email **ryan@westcompanies.com** as the way to reach Ryan.
+Every post's closing CTA must include BOTH contact channels: the direct email **ryan@westcompanies.com** and the office line **(406) 602-1418** (answered around the clock). On divorce and estate/probate posts, frame the phone line as the confidential option: "call anytime — the line is answered day or night, and the conversation stays confidential."
