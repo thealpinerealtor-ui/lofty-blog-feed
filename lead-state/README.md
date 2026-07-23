@@ -1,0 +1,1 @@
+Dedup state for Ryan's hourly lead engine. Every line is a SHA-256 hash of a normalized identifier (emails lowercased, phones E.164, Gmail/Vapi IDs as-is). No raw contact data is stored here because this repo is public.
