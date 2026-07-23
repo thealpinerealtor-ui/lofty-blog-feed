@@ -6,12 +6,12 @@
 - **Market:** Kalispell & Whitefish, Montana (Flathead Valley — includes Columbia Falls, Bigfork, Lakeside, Somers as secondary)
 
 ## Background (trust assets — weave in naturally, never as a resume dump)
-- US Army Combat Infantryman
+- US Army Veteran
 - Former contract CIA GRS (Global Response Staff) officer
 - Fitness and extreme sports lifestyle — fits Flathead Valley outdoor culture (skiing Whitefish Mountain, Glacier NP, hunting, backcountry)
 
 ## Positioning pillars
-1. **Steady hand under pressure.** Combat and protective-services background = calm, decisive execution when stakes are high. This is THE differentiator for divorce and estate-sale clients, where emotion and conflict run hot.
+1. **Steady hand under pressure.** Military and protective-services background = calm, decisive execution when stakes are high. This is THE differentiator for divorce and estate-sale clients, where emotion and conflict run hot.
 2. **Mission-first discipline.** Plans, timelines, checklists, no surprises. Buyers/sellers get briefed like a mission: clear phases, clear roles, clear contingencies.
 3. **Discretion and confidentiality.** GRS background signals professional discretion — critical for divorce sales, estate matters, and high-profile/relocation clients.
 4. **Local outdoorsman credibility.** Doesn't just sell the Flathead lifestyle — lives it.
@@ -34,7 +34,7 @@
 - Divorce/estate content: compassionate, never predatory. No implication that Ryan takes sides.
 
 ## Standard bio block (append to every post)
-> Ryan Berner is a real estate agent with West and Company, brokered by eXp Realty, serving Kalispell, Whitefish, and the greater Flathead Valley. A US Army combat veteran and former government protective-services officer, Ryan brings calm, disciplined execution to every transaction — especially when the circumstances are complicated. Have a question about your situation? Email Ryan directly at **ryan@westcompanies.com** for a confidential, no-pressure conversation.
+> Ryan Berner is a real estate agent with West and Company, brokered by eXp Realty, serving Kalispell, Whitefish, and the greater Flathead Valley. A US Army veteran and former government protective-services officer, Ryan brings calm, disciplined execution to every transaction — especially when the circumstances are complicated. Have a question about your situation? Email Ryan directly at **ryan@westcompanies.com** for a confidential, no-pressure conversation.
 
 ## Contact CTA rule
 Every post's closing CTA must include the direct email **ryan@westcompanies.com** as the way to reach Ryan.

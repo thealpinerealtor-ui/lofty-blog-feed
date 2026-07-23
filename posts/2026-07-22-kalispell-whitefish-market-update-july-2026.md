@@ -32,7 +32,7 @@ With 732 active listings and homes taking nearly two months to go under contract
 
 Flat prices mean you're not chasing a runaway train. Sellers who've been sitting for 60+ days are negotiable — on price, on closing costs, on rate buydowns. A 1-point permanent buydown on a $560,000 purchase can matter more to your monthly payment than a $15,000 price cut. Most buyers never ask. The prepared ones do.
 
-And if you're a veteran or active-duty service member: your VA loan benefit is one of the strongest financing tools in this market — zero down, no PMI, competitive rates. As an Army combat veteran myself, I walk fellow veterans through this one all the time, and it consistently surprises people how much buying power it unlocks here in the valley.
+And if you're a veteran or active-duty service member: your VA loan benefit is one of the strongest financing tools in this market — zero down, no PMI, competitive rates. As an Army veteran myself, I walk fellow veterans through this one all the time, and it consistently surprises people how much buying power it unlocks here in the valley.
 
 ### If You're Selling
 
@@ -60,4 +60,4 @@ If you're not sure, that's worth a conversation — email me directly at **ryan@
 
 ---
 
-*Ryan Berner is a real estate agent with West and Company, brokered by eXp Realty, serving Kalispell, Whitefish, and the greater Flathead Valley. A US Army combat veteran and former government protective-services officer, Ryan brings calm, disciplined execution to every transaction — especially when the circumstances are complicated. Have a question about your situation? Email Ryan directly at ryan@westcompanies.com for a confidential, no-pressure conversation.*
+*Ryan Berner is a real estate agent with West and Company, brokered by eXp Realty, serving Kalispell, Whitefish, and the greater Flathead Valley. A US Army veteran and former government protective-services officer, Ryan brings calm, disciplined execution to every transaction — especially when the circumstances are complicated. Have a question about your situation? Email Ryan directly at ryan@westcompanies.com for a confidential, no-pressure conversation.*
