@@ -51,12 +51,12 @@ After years of working with estates and other high-stakes sales, the pattern is 
 
 ## A calm process beats a fast one
 
-My background is military and government protective services, and if that work taught me anything, it's this: pressure is exactly when you slow down and follow the plan. An estate sale is a mission with phases — secure the asset, establish legal authority, prepare, market, close. Handled in order, it's manageable. Handled in a panic, it's expensive.
+My background is the US Army and government special-programs security work, and if that work taught me anything, it's this: pressure is exactly when you slow down and follow the plan. An estate sale is a mission with phases — secure the asset, establish legal authority, prepare, market, close. Handled in order, it's manageable. Handled in a panic, it's expensive.
 
 So here's the question worth sitting with: if you inherited a Flathead Valley home tomorrow, would you know which decisions actually need to be made this month — and which ones can wait until the estate is ready?
 
-If you're in that situation now, or see it coming, you don't have to figure out the sequence alone. Email me at **ryan@westcompanies.com** and I'll walk you through how the process works for your specific situation — confidential, no pressure, no obligation.
+If you're in that situation now, or see it coming, you don't have to figure out the sequence alone. Email me at **ryan@westcompanies.com**, or call or text my office anytime at **(406) 602-1418** — the line is answered day or night, and the conversation stays confidential. No pressure, no obligation.
 
 ---
 
-> Ryan Berner is a real estate agent with West and Company, brokered by eXp Realty, serving Kalispell, Whitefish, and the greater Flathead Valley. A US Army veteran and former government protective-services officer, Ryan brings calm, disciplined execution to every transaction — especially when the circumstances are complicated. Have a question about your situation? Email Ryan directly at **ryan@westcompanies.com** for a confidential, no-pressure conversation.
+> Ryan Berner is a real estate agent with West and Company, brokered by eXp Realty, serving Kalispell, Whitefish, and the greater Flathead Valley. A US Army veteran and former government Special Programs Security Officer, Ryan brings calm, disciplined execution to every transaction — especially when the circumstances are complicated. Have a question about your situation? Email Ryan directly at **ryan@westcompanies.com**, or call or text his office anytime at **(406) 602-1418** — the line is answered around the clock. Every conversation is confidential and no-pressure.
