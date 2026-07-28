@@ -29,3 +29,13 @@ data (this repo is public).
   without risking a duplicate record.
 - Vapi outbound calls placed near the 8 PM MT cutoff: outcome processing
   lands in the next hourly run by design; confirm this is acceptable.
+
+## 2026-07-27 (evening)
+
+- **Anna branding fix (both Vapi assistants):** spoken intro and voicemail
+  now render the team name as "West, and Company" with a beat after "West"
+  so it no longer blurs into "Weston Company" in calls; system prompts on
+  both the outbound speed-to-lead assistant and the inbound reception
+  assistant got an explicit branding/pronunciation rule ("West and Company",
+  Berner = BER-ner). Email signature verified already correct
+  (West and Company | ryan@westcompanies.com) — no change needed there.
