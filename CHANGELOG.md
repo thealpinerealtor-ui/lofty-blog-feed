@@ -39,3 +39,7 @@ data (this repo is public).
   assistant got an explicit branding/pronunciation rule ("West and Company",
   Berner = BER-ner). Email signature verified already correct
   (West and Company | ryan@westcompanies.com) — no change needed there.
+- **Anna voice softened (both assistants):** greeting exclamation removed
+  ("this is Anna." instead of "this is Anna!"); ElevenLabs settings changed
+  from style 0.45 / stability 0.50 / speed 0.95 to style 0.25 /
+  stability 0.65 / speed 0.92 for a calmer, less punchy open.
