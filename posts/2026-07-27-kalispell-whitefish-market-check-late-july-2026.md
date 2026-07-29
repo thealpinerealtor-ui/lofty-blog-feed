@@ -55,10 +55,10 @@ The Flathead Valley in late July 2026 is balanced, brisk for well-priced homes, 
 
 So here's the question to sit with this week: *if you're planning a move in the next 90 days, do you have an actual plan — pricing, prep, financing, timeline — or just an intention?*
 
-If it's still an intention, that's worth a conversation. Email me directly at **ryan@westcompanies.com**, or call or text my office anytime at **(406) 602-1418** — the line is answered around the clock.
+If it's still an intention, that's worth a conversation. Email me directly at **ryan@westcompanies.com**, or call or text my office anytime at **(406) 709-5404** — the line is answered around the clock.
 
 *Market data sources: Houzeo Kalispell market data (June 2026), Zillow Home Value Index for Whitefish (May–June 2026, sale data April 2026), Freddie Mac Primary Mortgage Market Survey (week of July 23, 2026). This article is for informational purposes only and is not financial, legal, or tax advice.*
 
 ---
 
-*Ryan Berner is a real estate agent with West and Company, brokered by eXp Realty, serving Kalispell, Whitefish, and the greater Flathead Valley. A US Army veteran and former government Special Programs Security Officer, Ryan brings calm, disciplined execution to every transaction — especially when the circumstances are complicated. Have a question about your situation? Email Ryan directly at ryan@westcompanies.com, or call or text his office anytime at (406) 602-1418 — the line is answered around the clock. Every conversation is confidential and no-pressure.*
+*Ryan Berner is a real estate agent with West and Company, brokered by eXp Realty, serving Kalispell, Whitefish, and the greater Flathead Valley. A US Army veteran and former government Special Programs Security Officer, Ryan brings calm, disciplined execution to every transaction — especially when the circumstances are complicated. Have a question about your situation? Email Ryan directly at ryan@westcompanies.com, or call or text his office anytime at (406) 709-5404 — the line is answered around the clock. Every conversation is confidential and no-pressure.*

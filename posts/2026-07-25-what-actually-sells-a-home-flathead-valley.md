@@ -54,10 +54,10 @@ The sellers winning in Kalispell and Whitefish right now aren't the ones with th
 
 So here's the question to reflect on: *if you listed in the next 60 days, which of those three would you be least ready for?*
 
-If you're not sure — or you'd like an honest, no-pressure read on what your home would actually bring in today's market — email me directly at **ryan@westcompanies.com**, or call or text my office anytime at **(406) 602-1418**. The line is answered around the clock, and the conversation costs you nothing but a few minutes.
+If you're not sure — or you'd like an honest, no-pressure read on what your home would actually bring in today's market — email me directly at **ryan@westcompanies.com**, or call or text my office anytime at **(406) 709-5404**. The line is answered around the clock, and the conversation costs you nothing but a few minutes.
 
 *Market data sources: Movoto/MLS Kalispell market trends (June 2026), Zillow Home Value Index (May 2026). This article is for informational purposes only and is not financial, legal, or tax advice.*
 
 ---
 
-*Ryan Berner is a real estate agent with West and Company, brokered by eXp Realty, serving Kalispell, Whitefish, and the greater Flathead Valley. A US Army veteran and former government Special Programs Security Officer, Ryan brings calm, disciplined execution to every transaction — especially when the circumstances are complicated. Have a question about your situation? Email Ryan directly at ryan@westcompanies.com, or call or text his office anytime at (406) 602-1418 — the line is answered around the clock. Every conversation is confidential and no-pressure.*
+*Ryan Berner is a real estate agent with West and Company, brokered by eXp Realty, serving Kalispell, Whitefish, and the greater Flathead Valley. A US Army veteran and former government Special Programs Security Officer, Ryan brings calm, disciplined execution to every transaction — especially when the circumstances are complicated. Have a question about your situation? Email Ryan directly at ryan@westcompanies.com, or call or text his office anytime at (406) 709-5404 — the line is answered around the clock. Every conversation is confidential and no-pressure.*

@@ -41,8 +41,8 @@ You earned this benefit. Used correctly, it means keeping your savings intact, n
 
 So here's the question worth sitting with: if the only thing between you and a home in the Flathead Valley is a set of myths that stopped being true years ago, what's it costing you to keep believing them?
 
-If you're a veteran thinking about buying in Kalispell, Whitefish, or anywhere in the valley — even if you're a year out — I'm glad to talk it through, veteran to veteran. Email me directly at **ryan@westcompanies.com**, or call or text my office anytime at **(406) 602-1418** — the line is answered around the clock, and there's zero pressure either way.
+If you're a veteran thinking about buying in Kalispell, Whitefish, or anywhere in the valley — even if you're a year out — I'm glad to talk it through, veteran to veteran. Email me directly at **ryan@westcompanies.com**, or call or text my office anytime at **(406) 709-5404** — the line is answered around the clock, and there's zero pressure either way.
 
 ---
 
-> Ryan Berner is a real estate agent with West and Company, brokered by eXp Realty, serving Kalispell, Whitefish, and the greater Flathead Valley. A US Army veteran and former government Special Programs Security Officer, Ryan brings calm, disciplined execution to every transaction — especially when the circumstances are complicated. Have a question about your situation? Email Ryan directly at **ryan@westcompanies.com**, or call or text his office anytime at **(406) 602-1418** — the line is answered around the clock. Every conversation is confidential and no-pressure.
+> Ryan Berner is a real estate agent with West and Company, brokered by eXp Realty, serving Kalispell, Whitefish, and the greater Flathead Valley. A US Army veteran and former government Special Programs Security Officer, Ryan brings calm, disciplined execution to every transaction — especially when the circumstances are complicated. Have a question about your situation? Email Ryan directly at **ryan@westcompanies.com**, or call or text his office anytime at **(406) 709-5404** — the line is answered around the clock. Every conversation is confidential and no-pressure.

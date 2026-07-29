@@ -18,7 +18,7 @@ Inventory is at its summer peak right now. More homes on the market than any oth
 This week's market check breaks down the current numbers — inventory, prices, days on market, rates — and what they actually mean depending on which side of the deal you're on.
 
 Read it here: https://ryanberner.expportal.com/blog
-Questions? Call or text the office anytime — (406) 602-1418.
+Questions? Call or text the office anytime — (406) 709-5404.
 
 ### Instagram
 
@@ -26,7 +26,7 @@ The Flathead market just did something it does every July — and most sellers r
 
 Inventory is at its summer peak right now. More homes on the market than any other week of the year. Selling? Sounds like bad news. Buying? Sounds like leverage. The truth is more useful than either — and this week's market check breaks down the numbers and what they mean for your side of the deal.
 
-Full breakdown on the blog — link in bio. Or call or text the office anytime: 406-602-1418.
+Full breakdown on the blog — link in bio. Or call or text the office anytime: 406-709-5404.
 
 #KalispellRealEstate #WhitefishMontana #FlatheadValley #MontanaRealEstate
 
@@ -44,7 +44,7 @@ It's one of the most common questions I hear, and one of the most quietly stress
 Tomorrow's post walks through how couples typically handle payments between filing and settlement, and why the house decision doesn't have to become the fight. No sides taken — just the process, explained.
 
 https://ryanberner.expportal.com/blog
-Or call anytime — (406) 602-1418. The line is answered day or night, and the conversation stays confidential.
+Or call anytime — (406) 709-5404. The line is answered day or night, and the conversation stays confidential.
 
 ### Instagram
 
@@ -52,7 +52,7 @@ If you're separating and the mortgage is due on the first — who pays it?
 
 It's one of the most common questions I hear, and one of the most quietly stressful. The lender doesn't pause for a divorce. Both names stay on the note, and a missed payment follows both credit reports into whatever comes next. This week I wrote about how couples typically handle the in-between — and why the house doesn't have to become the fight.
 
-Full breakdown on the blog — link in bio. Or call anytime — 406-602-1418 — the line is answered day or night, and the conversation stays confidential.
+Full breakdown on the blog — link in bio. Or call anytime — 406-709-5404 — the line is answered day or night, and the conversation stays confidential.
 
 #DivorceRealEstate #MontanaDivorce #KalispellRealEstate #FlatheadValley
 
@@ -70,7 +70,7 @@ I hear it constantly in the Flathead — and it costs good people houses they'd 
 This week's buyer brief covers what VA loans actually require, where the myths come from, and how a well-structured VA offer competes head-to-head in Kalispell and Whitefish. From one veteran to another.
 
 Read it here: https://ryanberner.expportal.com/blog
-Questions? Call or text the office anytime — (406) 602-1418.
+Questions? Call or text the office anytime — (406) 709-5404.
 
 #VAloan #VeteranHomeownership
 
@@ -80,7 +80,7 @@ Veterans: has anyone ever told you a seller "won't take a VA offer"?
 
 I hear it constantly in the Flathead — and it costs good people houses they'd earned the right to buy. Zero down doesn't mean a weak offer. It means the down payment was paid years ago, in a different currency. This week's buyer brief covers what VA loans actually require and how a well-structured VA offer competes head-to-head here. From one veteran to another.
 
-Full breakdown on the blog — link in bio. Or call or text the office anytime: 406-602-1418.
+Full breakdown on the blog — link in bio. Or call or text the office anytime: 406-709-5404.
 
 #VALoan #VeteranHomeownership #KalispellRealEstate #WhitefishMontana #FlatheadValley
 
@@ -98,7 +98,7 @@ Between the probate paperwork, a home full of someone's whole life, and the assu
 Tomorrow's post walks through what truly requires a trip, what doesn't, and how a local point person runs the clear-out, prep, and sale on your behalf.
 
 https://ryanberner.expportal.com/blog
-Or call anytime — (406) 602-1418. The line is answered day or night, and the conversation stays confidential.
+Or call anytime — (406) 709-5404. The line is answered day or night, and the conversation stays confidential.
 
 ### Instagram
 
@@ -106,7 +106,7 @@ Inherited a house in the Flathead Valley — while you live three states away?
 
 Between the probate paperwork, a home full of someone's whole life, and the assumption you'll need to fly out every other week, it can feel unmanageable. What most people don't know: nearly all of it can be handled without you here. This week I wrote about what truly requires a trip, what doesn't, and how a local point person carries the rest.
 
-Full breakdown on the blog — link in bio. Or call anytime — 406-602-1418 — the line is answered day or night, and the conversation stays confidential.
+Full breakdown on the blog — link in bio. Or call anytime — 406-709-5404 — the line is answered day or night, and the conversation stays confidential.
 
 #ProbateRealEstate #InheritedHome #FlatheadValley #KalispellRealEstate
 
@@ -124,7 +124,7 @@ Everyone who lives here has an answer, and the reasons say everything about how 
 This week's community post is a local's guide to late summer on Flathead Lake — the access points, the rhythms, and what living near it is actually like. Locals, check my homework.
 
 https://ryanberner.expportal.com/blog
-Questions? Call or text the office anytime — (406) 602-1418.
+Questions? Call or text the office anytime — (406) 709-5404.
 
 ### Instagram
 
@@ -132,7 +132,7 @@ Bigfork, Lakeside, or Somers — which side of the lake is yours?
 
 Everyone who lives here has an answer, and the reasons say everything about how different lake life feels from one shore to the next. Cherry stands, quiet marinas, the way August evenings stretch out over the water. This week's community post is a local's guide to late summer on Flathead Lake — access points, rhythms, and what living near it is actually like.
 
-Full breakdown on the blog — link in bio. Or call or text the office anytime: 406-602-1418.
+Full breakdown on the blog — link in bio. Or call or text the office anytime: 406-709-5404.
 
 #FlatheadLake #BigforkMontana #LakesideMontana #FlatheadValley #MontanaLife
 
@@ -150,7 +150,7 @@ Wells and septic systems, roofs coming off hard winters, wood stoves, radon — 
 This morning's post covers the pre-list strategy that flips that: find it before the buyer does, and stay in control of your own sale.
 
 Read it here: https://ryanberner.expportal.com/blog
-Questions? Call or text the office anytime — (406) 602-1418.
+Questions? Call or text the office anytime — (406) 709-5404.
 
 ### Instagram
 
@@ -158,7 +158,7 @@ Hard truth for Flathead sellers: the deal rarely dies at the negotiating table. 
 
 Wells and septic, roofs coming off hard winters, wood stoves, radon — the valley has its own list of inspection killers, and most sellers meet them ten days into a contract, negotiating from the weak side. This morning's post covers the pre-list strategy that flips that: find it before the buyer does.
 
-Full breakdown on the blog — link in bio. Or call or text the office anytime: 406-602-1418.
+Full breakdown on the blog — link in bio. Or call or text the office anytime: 406-709-5404.
 
 #HomeSelling #KalispellRealEstate #WhitefishMontana #FlatheadValley
 
@@ -176,7 +176,7 @@ In my previous line of work, the people who performed under real pressure had th
 Buying or selling a home is most families' highest-stakes negotiation — and it's usually run on emotion. This week I wrote about what changes when it's run like the professionals run it instead.
 
 https://ryanberner.expportal.com/blog
-Questions? Call or text the office anytime — (406) 602-1418.
+Questions? Call or text the office anytime — (406) 709-5404.
 
 ### Instagram
 
@@ -184,6 +184,6 @@ The best negotiators I ever worked alongside never raised their voices.
 
 In my previous line of work, the people who performed under real pressure had three things: preparation, information discipline, and calm. The loudest person in the room was never the one in control. Buying or selling a home is most families' highest-stakes negotiation — this week I wrote about what changes when it's run the way professionals run it.
 
-Full breakdown on the blog — link in bio. Or call or text the office anytime: 406-602-1418.
+Full breakdown on the blog — link in bio. Or call or text the office anytime: 406-709-5404.
 
 #NegotiationSkills #KalispellRealEstate #WhitefishMontana #FlatheadValley

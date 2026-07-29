@@ -55,8 +55,8 @@ My background is the US Army and government special-programs security work, and 
 
 So here's the question worth sitting with: if you inherited a Flathead Valley home tomorrow, would you know which decisions actually need to be made this month — and which ones can wait until the estate is ready?
 
-If you're in that situation now, or see it coming, you don't have to figure out the sequence alone. Email me at **ryan@westcompanies.com**, or call or text my office anytime at **(406) 602-1418** — the line is answered day or night, and the conversation stays confidential. No pressure, no obligation.
+If you're in that situation now, or see it coming, you don't have to figure out the sequence alone. Email me at **ryan@westcompanies.com**, or call or text my office anytime at **(406) 709-5404** — the line is answered day or night, and the conversation stays confidential. No pressure, no obligation.
 
 ---
 
-> Ryan Berner is a real estate agent with West and Company, brokered by eXp Realty, serving Kalispell, Whitefish, and the greater Flathead Valley. A US Army veteran and former government Special Programs Security Officer, Ryan brings calm, disciplined execution to every transaction — especially when the circumstances are complicated. Have a question about your situation? Email Ryan directly at **ryan@westcompanies.com**, or call or text his office anytime at **(406) 602-1418** — the line is answered around the clock. Every conversation is confidential and no-pressure.
+> Ryan Berner is a real estate agent with West and Company, brokered by eXp Realty, serving Kalispell, Whitefish, and the greater Flathead Valley. A US Army veteran and former government Special Programs Security Officer, Ryan brings calm, disciplined execution to every transaction — especially when the circumstances are complicated. Have a question about your situation? Email Ryan directly at **ryan@westcompanies.com**, or call or text his office anytime at **(406) 709-5404** — the line is answered around the clock. Every conversation is confidential and no-pressure.
