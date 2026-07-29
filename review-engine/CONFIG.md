@@ -3,9 +3,11 @@
 GOOGLE_REVIEW_LINK: https://g.page/r/CQP9LqVF1Q7BEAE/review
 # ^ Ryan's Google Business Profile "write a review" short link. LIVE — engine is out of DRY MODE.
 
-REVIEW_LINK_ZILLOW: https://www.zillow.com/reviews/write/?s=ryanberner6
-# ^ Zillow write-a-review link (profile screenname ryanberner6). Routed only when the CLOSED email
-#   for a client carries the "zillow" tag. Google is the default for everyone else.
+REVIEW_LINK_ZILLOW: UNCONFIRMED
+# ^ The guessed screenname URL bounced to zillow.com homepage — Zillow uses an encoded agent ID, not the
+#   screenname. Until Ryan pastes the real "Write a review" URL from his profile, treat Zillow as UNCONFIRMED:
+#   if a client is tagged "zillow" but this is still UNCONFIRMED, FALL BACK to GOOGLE_REVIEW_LINK (never send
+#   a broken link). Google remains default/primary for everyone regardless.
 
 DRY_MODE: false
 # ^ GOOGLE_REVIEW_LINK is set, so the engine now sends for real. Set to true to pause all sending.
