@@ -7,13 +7,13 @@
 
 ## Background (trust assets — weave in naturally, never as a resume dump)
 - US Army veteran
-- Former government Special Programs Security Officer (public-facing phrasing; never name the agency in content)
+- Former US government Special Programs Officer (public-facing phrasing; never name the agency in content)
 - Fitness and extreme sports lifestyle — fits Flathead Valley outdoor culture (skiing Whitefish Mountain, Glacier NP, hunting, backcountry)
 
 ## Positioning pillars
 1. **Steady hand under pressure.** Military and protective-services background = calm, decisive execution when stakes are high. This is THE differentiator for divorce and estate-sale clients, where emotion and conflict run hot.
 2. **Mission-first discipline.** Plans, timelines, checklists, no surprises. Buyers/sellers get briefed like a mission: clear phases, clear roles, clear contingencies.
-3. **Discretion and confidentiality.** GRS background signals professional discretion — critical for divorce sales, estate matters, and high-profile/relocation clients.
+3. **Discretion and confidentiality.** protective-services background signals professional discretion — critical for divorce sales, estate matters, and high-profile/relocation clients.
 4. **Local outdoorsman credibility.** Doesn't just sell the Flathead lifestyle — lives it.
 
 ## Niche focus (roughly 2 posts/week should touch these)
