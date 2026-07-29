@@ -51,11 +51,12 @@ def build():
     <link>{html.escape(link)}</link>
     <guid isPermaLink="false">{html.escape(p['slug'])}</guid>
     <pubDate>{format_datetime(p['dt'])}</pubDate>
+    <dc:creator>Ryan Berner</dc:creator>
     <description>{html.escape(p['desc'])}</description>
     <content:encoded><![CDATA[{p['html']}]]></content:encoded>
   </item>""")
     feed = f"""<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
   <title>{html.escape(SITE_TITLE)}</title>
   <link>{html.escape(SITE_LINK)}</link>

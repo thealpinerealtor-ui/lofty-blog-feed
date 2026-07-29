@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
   <title>Flathead Valley Real Estate Insights | Ryan Berner</title>
   <link>https://thealpinerealtor-ui.github.io/lofty-blog-feed</link>
   <atom:link href="https://thealpinerealtor-ui.github.io/lofty-blog-feed/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Market updates, buyer and seller guides, and straight answers for Kalispell and Whitefish real estate — including divorce and estate home sales. By Ryan Berner, West and Company | Brokered by eXp Realty.</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 29 Jul 2026 20:40:04 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 29 Jul 2026 21:46:11 +0000</lastBuildDate>
   <item>
     <title>VA Loans in the Flathead Valley: What Veterans Get Wrong</title>
     <link>https://thealpinerealtor-ui.github.io/lofty-blog-feed/posts/va-loans-flathead-valley-what-veterans-get-wrong</link>
     <guid isPermaLink="false">va-loans-flathead-valley-what-veterans-get-wrong</guid>
     <pubDate>Wed, 29 Jul 2026 06:30:00 +0000</pubDate>
+    <dc:creator>Ryan Berner</dc:creator>
     <description>The myths that cost veterans homes in Kalispell and Whitefish — and how a well-structured VA offer competes head-to-head with anything else on the table.</description>
     <content:encoded><![CDATA[<h1>VA Loans in the Flathead Valley: What Veterans Get Wrong</h1>
 <p>Here's a conversation I have more often than I'd like. A veteran calls about a house in Kalispell, and somewhere in the first ten minutes they say something like: "I have my VA eligibility, but I've heard sellers don't take VA offers, so maybe I should just go conventional."</p>
@@ -43,6 +44,7 @@
     <link>https://thealpinerealtor-ui.github.io/lofty-blog-feed/posts/who-pays-mortgage-montana-divorce</link>
     <guid isPermaLink="false">who-pays-mortgage-montana-divorce</guid>
     <pubDate>Tue, 28 Jul 2026 06:30:00 +0000</pubDate>
+    <dc:creator>Ryan Berner</dc:creator>
     <description>Between filing and settlement, the lender still expects payment and both names stay on the note. Here&#x27;s how Flathead Valley couples typically handle the mortgage during a divorce — without turning the house into the fight.</description>
     <content:encoded><![CDATA[<h1>Who Pays the Mortgage During a Montana Divorce?</h1>
 <p>Here's a question that comes up quietly, usually a few weeks after the divorce filing, and usually from someone who hasn't slept well: "We're separated. Neither of us wants to live in the house together. So... who's supposed to be paying the mortgage right now?"</p>
@@ -87,6 +89,7 @@
     <link>https://thealpinerealtor-ui.github.io/lofty-blog-feed/posts/kalispell-whitefish-market-check-late-july-2026</link>
     <guid isPermaLink="false">kalispell-whitefish-market-check-late-july-2026</guid>
     <pubDate>Mon, 27 Jul 2026 06:30:00 +0000</pubDate>
+    <dc:creator>Ryan Berner</dc:creator>
     <description>Flathead Valley inventory is at its summer peak. Here&#x27;s what the latest Kalispell and Whitefish numbers — and a 6.58% mortgage rate — actually mean for an August listing or an August offer.</description>
     <content:encoded><![CDATA[<p>Late July is when the Flathead Valley housing market hits its widest point of the year. More homes on the market than any other season, more buyers in town, more showings on the calendar — and, every year, more sellers and buyers misreading what that peak actually means.</p>
 <p>So let's do what we do every Monday: numbers first, then the read.</p>
@@ -128,6 +131,7 @@
     <link>https://thealpinerealtor-ui.github.io/lofty-blog-feed/posts/mission-planning-your-flathead-valley-home-sale</link>
     <guid isPermaLink="false">mission-planning-your-flathead-valley-home-sale</guid>
     <pubDate>Sun, 26 Jul 2026 06:30:00 +0000</pubDate>
+    <dc:creator>Ryan Berner</dc:creator>
     <description>Why the best real estate transactions in Kalispell and Whitefish run like a well-briefed mission — clear objective, phases, contingencies, and roles — and how to tell if your agent is winging it.</description>
     <content:encoded><![CDATA[<h1>Mission Planning a Home Sale: What the Army Taught Me About Real Estate</h1>
 <p>Have you ever sat across from a professional — an agent, a contractor, an advisor — and had the quiet feeling they were making it up as they went?</p>
@@ -170,6 +174,7 @@
     <link>https://thealpinerealtor-ui.github.io/lofty-blog-feed/posts/what-actually-sells-a-home-flathead-valley</link>
     <guid isPermaLink="false">what-actually-sells-a-home-flathead-valley</guid>
     <pubDate>Sat, 25 Jul 2026 06:30:00 +0000</pubDate>
+    <dc:creator>Ryan Berner</dc:creator>
     <description>In a flat Kalispell and Whitefish market, three things sell a home — pricing to the data, prep before the sign goes up, and a real marketing plan. Here&#x27;s how each works.</description>
     <content:encoded><![CDATA[<h1>What Actually Sells a Home in the Flathead Valley Right Now</h1>
 <p>If you're thinking about selling your home in Kalispell or Whitefish this fall, here's a question worth sitting with before you talk to anyone about a list price: <em>do you know what the market will actually pay for your home — or do you know what you'd like it to pay?</em></p>
@@ -210,6 +215,7 @@
     <link>https://thealpinerealtor-ui.github.io/lofty-blog-feed/posts/inherited-home-flathead-valley-what-to-do-first</link>
     <guid isPermaLink="false">inherited-home-flathead-valley-what-to-do-first</guid>
     <pubDate>Thu, 23 Jul 2026 06:30:00 +0000</pubDate>
+    <dc:creator>Ryan Berner</dc:creator>
     <description>A plain-English walkthrough of how estate home sales actually work in Kalispell and the Flathead Valley — what&#x27;s urgent, what can wait, and where families lose money by rushing.</description>
     <content:encoded><![CDATA[<h1>Inherited a Home in the Flathead Valley? Start Here</h1>
 <p>If you've recently inherited a home in Kalispell, Whitefish, or anywhere in the Flathead Valley, here's the question I hear most often: "What am I actually supposed to do first?"</p>
@@ -248,6 +254,7 @@
     <link>https://thealpinerealtor-ui.github.io/lofty-blog-feed/posts/kalispell-whitefish-market-update-july-2026</link>
     <guid isPermaLink="false">kalispell-whitefish-market-update-july-2026</guid>
     <pubDate>Wed, 22 Jul 2026 06:30:00 +0000</pubDate>
+    <dc:creator>Ryan Berner</dc:creator>
     <description>Current Flathead Valley home prices, inventory, and mortgage rates — and what they actually mean if you&#x27;re buying or selling in Kalispell or Whitefish right now.</description>
     <content:encoded><![CDATA[<p>If you've been watching the Flathead Valley market and wondering whether now is a smart time to make a move, here's the honest answer: it depends on which side of the transaction you're on — and most people are reading the headlines wrong.</p>
 <p>Let's walk through the actual numbers, then talk about what they mean for you.</p>
