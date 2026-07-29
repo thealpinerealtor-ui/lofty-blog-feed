@@ -63,8 +63,8 @@ So here's the reflection I'd leave you with, whether you're eyeing Kalispell hom
 
 *If you asked your agent today what phase your transaction is in, what the next checkpoint is, and what the contingency plan is if it slips — would you get an answer, or a pause?*
 
-If you'd like to see what a briefed, mission-planned transaction looks like for your specific situation, I'm glad to walk you through it — no pressure, no obligation. Email me directly at **ryan@westcompanies.com**, or call or text my office at **(406) 602-1418** — the line is answered around the clock.
+If you'd like to see what a briefed, mission-planned transaction looks like for your specific situation, I'm glad to walk you through it — no pressure, no obligation. Email me directly at **ryan@westcompanies.com**, or call or text my office at **(406) 709-5404** — the line is answered around the clock.
 
 ---
 
-> Ryan Berner is a real estate agent with West and Company, brokered by eXp Realty, serving Kalispell, Whitefish, and the greater Flathead Valley. A US Army veteran and former government Special Programs Security Officer, Ryan brings calm, disciplined execution to every transaction — especially when the circumstances are complicated. Have a question about your situation? Email Ryan directly at **ryan@westcompanies.com**, or call or text his office anytime at **(406) 602-1418** — the line is answered around the clock. Every conversation is confidential and no-pressure.
+> Ryan Berner is a real estate agent with West and Company, brokered by eXp Realty, serving Kalispell, Whitefish, and the greater Flathead Valley. A US Army veteran and former government Special Programs Security Officer, Ryan brings calm, disciplined execution to every transaction — especially when the circumstances are complicated. Have a question about your situation? Email Ryan directly at **ryan@westcompanies.com**, or call or text his office anytime at **(406) 709-5404** — the line is answered around the clock. Every conversation is confidential and no-pressure.
