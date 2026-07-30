@@ -36,3 +36,29 @@ labeled correctly instead of guessed.
 - **Speed-to-lead outbound (Job D) dials valid US numbers only** — non-US numbers (e.g. Canadian
   403) are skipped by design. Cross-border AI calling falls under different (CRTC) rules.
 - When a NEW source appears with a Lofty "Source" value not listed here, add it to this file.
+
+## Canadian leads (NW Montana gets real cross-border buyer volume)
+Not legal advice — verify with broker compliance / telecom counsel before changing anything.
+- **Live human calls by Ryan: OK.** Calling a Canadian buyer who registered/inquired is generally
+  covered by CRTC's Existing Business Relationship exemption (6 months from an inquiry) and/or
+  express consent, so it's exempt from most DNC restrictions. Observe CRTC calling hours
+  (~9:00 AM–9:30 PM weekdays, 10:00 AM–6:00 PM weekends, local time) and honor opt-outs.
+- **Automated / AI-voice (Anna) calls to Canada: DO NOT.** Canada treats prerecorded/AI calls as
+  ADAD (automatic dialing-announcing devices); telemarketing ADAD calls are PROHIBITED without
+  prior EXPRESS consent specifically to receive an automated call. A generic "contact me" opt-in
+  does NOT cover it. Keep Job D skipping non-US numbers. Bright-line rule, not a soft gap.
+- **Texts/emails to Canadians = CASL** (express or implied consent + working unsubscribe). A site
+  registration opt-in typically covers nurture email/text; confirm the language before relying on it.
+- **Process to call Canada as a business (if ever expanding beyond exempt follow-up):** register
+  with Canada's National DNCL operator + pay annual subscription (area-code based) to scrub numbers,
+  maintain a written DNC policy, identify caller on calls; automated calls additionally require
+  documented express ADAD consent per contact. For agent follow-up on own registrations, the
+  EBR/consent exemption usually makes full DNCL registration unnecessary — live calls only.
+
+## OPEN FOLLOW-UPS
+- [ ] Confirm the exact consent language captured by the searchflatheadhomes.com registration form
+      (phone / automated-call / text consent?). Site is team-owned — ask the site owner. If it
+      captures express phone+automated consent, Canadian auto-dial math may change; until then,
+      Canadian = live-call only.
+- [ ] Get broker compliance sign-off on the Canadian live-call + no-ADAD policy above before
+      treating it as settled.
