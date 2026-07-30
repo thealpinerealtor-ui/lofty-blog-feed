@@ -11,8 +11,12 @@ labeled correctly instead of guessed.
   through the Zapier connector, Lofty's "New Buyer Lead Alert" email may show the generic
   upstream label **"Source: Zapier"** — the *real* origin is on the lead's Source field in the
   CRM (searchflatheadhomes.com), not the email.
-- **Lead type:** usually tagged **"Registration"** = account sign-up to browse listings. Real
-  contact info + active searcher = good speed-to-lead candidate.
+- **Lead type:** usually tagged **"Registration"** = account sign-up to browse listings.
+- **Handling: LONG-TERM NURTURE, not speed-to-lead.** Per Ryan (2026-07-30), registrations from
+  this site are typically early-stage browsers, not ready-now buyers — do NOT fire the aggressive
+  speed-to-lead first-touch on them. Route to nurture cadence; a warm personal touch is fine, but
+  no urgent auto-dial / rapid auto-reply treatment. (Job D already skips them when non-US; this
+  rule makes the nurture intent explicit for US registrations too.)
 - **ACCESS (important):** Ryan does **NOT** have admin access to this site or its Zap — it is
   team/third-party owned. Any change to the site, its forms, or the Zap that feeds Lofty must
   go through the team/site owner. **Alpine cannot modify this source directly** (and should not
