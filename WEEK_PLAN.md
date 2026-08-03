@@ -1,31 +1,31 @@
-# Week Plan — Monday July 27 – Sunday August 2, 2026
+# Week Plan — Monday August 3 – Sunday August 9, 2026
 
 Angles checked against posts/ archive (no repeats from the last 8 weeks).
 
-## Monday, July 27 — Local market update
-**Working title:** Kalispell & Whitefish Market Check: Late July 2026
-**Angle:** Late July is when Flathead Valley inventory peaks — and most sellers misread what that means. Fresh stats (inventory, median price, DOM, current mortgage rate, sources cited) plus the seasonal read: what the summer peak means for an August listing vs. an August offer. (Requires fresh web research at write time per TOPIC_CALENDAR rules.)
+## Monday, August 3 — Local market update
+**Working title:** Kalispell & Whitefish Market Update: The August Turn
+**Angle:** Inventory crested in late July — early August is when the Flathead market quietly pivots: showings thin as vacations wind down, days on market stretch, and the sellers who priced at peak start chasing the market down. Fresh stats (inventory, median price, DOM, current mortgage rate, sources cited) plus what the turn means for anyone listing or writing offers this month. (Requires fresh web research at write time per TOPIC_CALENDAR rules.)
 
-## Tuesday, July 28 — Divorce home sales
-**Working title:** Who Pays the Mortgage During a Montana Divorce?
-**Angle:** The quietly stressful question between filing and settlement: the lender still expects payment, both names stay on the note, and missed payments hit both credit scores. How couples typically handle interim payments and why the house decision doesn't have to become the fight. Empathetic, process-focused, with "consult your attorney" language.
+## Tuesday, August 4 — Divorce home sales
+**Working title:** Keep the House or Sell It? The Montana Divorce Buyout, Explained
+**Angle:** One spouse wants to stay — what a buyout actually requires: agreeing on the home's value, refinancing to remove a name from the note, and finding the cash or offsetting assets for the equity split. When a buyout pencils, when it quietly doesn't, and why selling is sometimes the kinder outcome for both people. Empathetic, process-focused, with "consult your attorney" language.
 
-## Wednesday, July 29 — Buyer guides
-**Working title:** VA Loans in the Flathead Valley: What Veterans Get Wrong
-**Angle:** Ryan's lane. The myths that cost veterans houses — "sellers won't take VA offers," "zero down means a weak offer" — and how a well-structured VA offer competes head-to-head in Kalispell and Whitefish. Veteran-to-veteran credibility.
+## Wednesday, August 5 — Buyer guides
+**Working title:** New Construction vs. Resale in the Flathead Valley: The Honest Trade-offs
+**Angle:** What buyers give up and gain in each direction — builder timelines and upgrade pricing vs. established landscaping, known wells/septic, and negotiable sellers. Where new builds are actually happening around Kalispell and Columbia Falls, and the questions to ask a builder that most buyers don't.
 
-## Thursday, July 30 — Estate & probate sales
-**Working title:** Selling an Inherited Flathead Home From Out of State
-**Angle:** For the heir or personal representative living three states away: what can be handled remotely (nearly everything), what actually requires a trip, and how a local point person runs clear-out, prep, and the sale without repeated flights. Compassionate, logistical, with "consult your attorney/CPA" language.
+## Thursday, August 6 — Estate & probate sales
+**Working title:** The Personal Representative's First 30 Days: The House Comes First
+**Angle:** For the newly appointed PR in a Montana probate: the home is usually the estate's largest asset and its biggest liability. Securing the property, keeping insurance in force (vacant-home clauses), utilities and winterization, and why nothing gets sold or given away early. Compassionate, checklist-driven, with "consult your attorney/CPA" language.
 
-## Friday, July 31 — Community & lifestyle
-**Working title:** Late Summer on Flathead Lake: A Local's Guide
-**Angle:** Amenities-focused tour of lake life as the season peaks — Bigfork, Lakeside, and Somers each have their own rhythm; public access points, marinas, cherry stands, and what living near the lake is actually like after Labor Day. Fair-Housing safe: places and amenities, never people.
+## Friday, August 7 — Community & lifestyle
+**Working title:** Choosing Your Base Camp: Whitefish, Kalispell, or Columbia Falls
+**Angle:** Amenities-focused comparison for people moving to the valley — town rhythm, commute distances, access to Whitefish Mountain and Glacier, dining and services, airport proximity. Places and amenities only, Fair-Housing safe: no characterizations of who lives where.
 
-## Saturday, August 1 — Seller guides
-**Working title:** What Kills Deals in Inspection — and How Flathead Sellers Get Ahead of It
-**Angle:** Deals rarely die at the negotiating table; they die in the crawl space. The valley-specific killers — wells and septic, roofs after hard winters, wood stoves, radon — and the pre-list inspection strategy that keeps sellers in control instead of renegotiating under pressure.
+## Saturday, August 8 — Seller guides
+**Working title:** The September Window: Why Fall Listings Work in the Flathead
+**Angle:** Most sellers think the season ends with summer — but late August through September is the valley's quiet second window: serious buyers who toured all summer, less competition as peak listings expire, and closings that land before the holidays. How to prep now to catch it.
 
-## Sunday, August 2 — Brand / authority
-**Working title:** Negotiating Under Pressure: Lessons From a Different Line of Work
-**Angle:** The best negotiators Ryan worked alongside in high-pressure government work never raised their voices — preparation, information discipline, and calm are the whole game. How that translates directly to offer strategy and multiple-counter situations in a real estate deal. Anonymized, no agency named.
+## Sunday, August 9 — Brand / authority
+**Working title:** The Quiet Sale: Why Discretion Wins in Real Estate
+**Angle:** In Ryan's former line of work, information discipline wasn't a courtesy — it was the job. Some sales deserve the same handling: pre-market preparation without neighborhood chatter, controlled showings, and negotiating positions that never leak. What a discreet sale looks like and who tends to need one. Anonymized, no agency named.
