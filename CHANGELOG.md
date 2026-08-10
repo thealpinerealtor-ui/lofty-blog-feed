@@ -4,6 +4,15 @@ Running log of configuration and behavior changes, kept for the eventual
 technical installation sheet rewrite. System-level entries only — no lead
 data (this repo is public).
 
+## 2026-08-10
+
+- **Weekly local push installed on thoth (Windows).** Sunday 8:00 PM MT
+  Task Scheduler job runs `blog-engine-weekly-push.ps1`: pulls, ingests
+  staged content from `blog-handoff\`, verifies the office number, commits,
+  and pushes over SSH with a repo-scoped write deploy key
+  (`thoth weekly push`). Nothing pushes from the cloud; empty handoff is a
+  quiet no-op. Logs in `blog-engine-logs\`.
+
 ## 2026-07-27
 
 - **Zapier MCP permissions set to "always allow"** in the Claude app, so
