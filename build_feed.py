@@ -24,12 +24,20 @@ SITE_DESC = ("Market updates, buyer and seller guides, and straight answers for 
              "By Ryan Berner, West and Company | Brokered by eXp Realty.")
 MAX_ITEMS = 20
 
+def _unquote(v):
+    """Front matter may quote values containing colons (valid YAML). Strip one
+    matched pair of surrounding quotes so titles don't render as "Title" in the feed."""
+    v = v.strip()
+    if len(v) >= 2 and v[0] == v[-1] and v[0] in ('"', "'"):
+        v = v[1:-1].strip()
+    return v
+
 def parse_post(path):
     text = open(path, encoding="utf-8").read()
     m = re.match(r"^---\n(.*?)\n---\n(.*)$", text, re.S)
     if not m:
         raise ValueError(f"missing front matter: {path}")
-    meta = dict(re.findall(r"^(\w+):\s*(.+)$", m.group(1), re.M))
+    meta = {k: _unquote(v) for k, v in re.findall(r"^(\w+):\s*(.+)$", m.group(1), re.M)}
     body_html = markdown.markdown(m.group(2), extensions=["extra"])
     fname = os.path.basename(path)
     date_str = fname[:10]
