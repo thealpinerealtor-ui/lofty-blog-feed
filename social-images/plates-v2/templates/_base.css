@@ -1,0 +1,26 @@
+/* Plates v2 — shared foundation. Loaded by every template. */
+@font-face { font-family: 'Anton'; src: url('../node_modules/@fontsource/anton/files/anton-latin-400-normal.woff2') format('woff2'); font-weight: 400; }
+@font-face { font-family: 'Archivo Black'; src: url('../node_modules/@fontsource/archivo-black/files/archivo-black-latin-400-normal.woff2') format('woff2'); font-weight: 400; }
+@font-face { font-family: 'DM Serif Display'; src: url('../node_modules/@fontsource/dm-serif-display/files/dm-serif-display-latin-400-normal.woff2') format('woff2'); font-weight: 400; }
+@font-face { font-family: 'DM Serif Display'; src: url('../node_modules/@fontsource/dm-serif-display/files/dm-serif-display-latin-400-italic.woff2') format('woff2'); font-weight: 400; font-style: italic; }
+@font-face { font-family: 'Courier Prime'; src: url('../node_modules/@fontsource/courier-prime/files/courier-prime-latin-400-normal.woff2') format('woff2'); font-weight: 400; }
+@font-face { font-family: 'Courier Prime'; src: url('../node_modules/@fontsource/courier-prime/files/courier-prime-latin-700-normal.woff2') format('woff2'); font-weight: 700; }
+@font-face { font-family: 'Caveat'; src: url('../node_modules/@fontsource/caveat/files/caveat-latin-700-normal.woff2') format('woff2'); font-weight: 700; }
+@font-face { font-family: 'Inter'; src: url('../node_modules/@fontsource/inter/files/inter-latin-400-normal.woff2') format('woff2'); font-weight: 400; }
+@font-face { font-family: 'Inter'; src: url('../node_modules/@fontsource/inter/files/inter-latin-600-normal.woff2') format('woff2'); font-weight: 600; }
+@font-face { font-family: 'Inter'; src: url('../node_modules/@fontsource/inter/files/inter-latin-700-normal.woff2') format('woff2'); font-weight: 700; }
+
+:root {
+  --cream: #EEE7D8;
+  --paper: #F5EFDF;
+  --ink: #211D16;
+  --ink-soft: rgba(33, 29, 22, 0.78);
+  --gold: #C6A35C;
+  --gold-hi: #DEBE78;
+  --night: #16233A;
+  --pen: #C3271B;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html, body { width: 1080px; height: 1080px; overflow: hidden; }
+body { -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; }
+.plate { position: relative; width: 1080px; height: 1080px; overflow: hidden; }

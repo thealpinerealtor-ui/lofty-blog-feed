@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8"><link rel="stylesheet" href="_base.css">
+<style>
+  body { background: var(--paper); }
+  .plate {
+    background:
+      repeating-linear-gradient(180deg,
+        transparent 0px, transparent 43px,
+        rgba(122, 145, 175, 0.38) 43px, rgba(122, 145, 175, 0.38) 45px),
+      var(--paper);
+  }
+  /* red margin rule */
+  .margin-rule { position: absolute; left: 108px; top: 0; width: 2px; height: 1080px; background: rgba(206, 116, 104, 0.55); }
+
+  .content { position: absolute; left: 150px; top: 86px; width: 850px; }
+  .title { font-family: 'Courier Prime'; font-weight: 700; font-size: 40px; letter-spacing: 0.01em; color: var(--ink); text-transform: uppercase; line-height: 44px; }
+  .title-underline { width: 560px; height: 3px; background: var(--ink); opacity: 0.8; margin-top: 2px; margin-bottom: 42px; }
+  .lines { font-family: 'Courier Prime'; font-weight: 400; font-size: 29px; color: var(--ink); line-height: 44px; }
+  .lines .gap { height: 44px; }
+
+  .circle-wrap { position: relative; display: inline-block; }
+  .circle-wrap svg { position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); overflow: visible; }
+
+  .note { position: absolute; left: 150px; top: {{NOTE_TOP}}px; width: 820px;
+          font-family: 'Caveat'; font-weight: 700; font-size: 52px; line-height: 1.1;
+          color: var(--pen); transform: rotate(-2.4deg); transform-origin: left center; }
+
+  .footer { position: absolute; left: 150px; bottom: 48px; width: 856px;
+            display: flex; justify-content: space-between; align-items: baseline;
+            font-family: 'Courier Prime'; }
+  .footer .brand { font-weight: 700; font-size: 21px; color: var(--ink); text-transform: uppercase; letter-spacing: 0.02em; }
+  .footer .phone { font-weight: 400; font-size: 21px; color: var(--ink); }
+</style></head>
+<body><div class="plate">
+  <div class="margin-rule"></div>
+  <div class="content">
+    <div class="title">{{TITLE}}</div>
+    <div class="title-underline"></div>
+    <div class="lines">{{LINES}}</div>
+  </div>
+  <div class="note">{{NOTE}}</div>
+  <div class="footer">
+    <div class="brand">Ryan Berner &middot; West and Company</div>
+    <div class="phone">{{PHONE}}</div>
+  </div>
+</div>
+<script>
+  // Draw a hand-drawn red ellipse around the element marked {{CIRCLED}} via <span class="circle-me">.
+  const el = document.querySelector('.circle-me');
+  if (el) {
+    const spec = "{{CIRCLE_W}}";
+    const w = (spec === "auto" || !spec) ? el.offsetWidth + 96 : parseInt(spec, 10);
+    const h = 74;
+    const wrap = document.createElement('span');
+    wrap.className = 'circle-wrap';
+    el.parentNode.insertBefore(wrap, el);
+    wrap.appendChild(el);
+    const ns = 'http://www.w3.org/2000/svg';
+    const svg = document.createElementNS(ns, 'svg');
+    svg.setAttribute('width', w); svg.setAttribute('height', h);
+    const rx = w / 2 - 4, ry = h / 2 - 4, cx = w / 2, cy = h / 2;
+    // slightly irregular double-pass ellipse = pen feel
+    const p = document.createElementNS(ns, 'path');
+    p.setAttribute('d',
+      `M ${cx - rx} ${cy + 6}` +
+      ` C ${cx - rx - 6} ${cy - ry + 6}, ${cx - rx * 0.2} ${cy - ry - 5}, ${cx + rx * 0.45} ${cy - ry + 2}` +
+      ` C ${cx + rx + 8} ${cy - ry + 12}, ${cx + rx + 2} ${cy + ry - 10}, ${cx + rx * 0.3} ${cy + ry - 2}` +
+      ` C ${cx - rx * 0.5} ${cy + ry + 6}, ${cx - rx - 2} ${cy + ry - 14}, ${cx - rx + 4} ${cy - 2}`);
+    p.setAttribute('fill', 'none');
+    p.setAttribute('stroke', '#C3271B');
+    p.setAttribute('stroke-width', '3.5');
+    p.setAttribute('stroke-linecap', 'round');
+    p.setAttribute('opacity', '0.9');
+    svg.appendChild(p);
+    wrap.appendChild(svg);
+  }
+</script>
+</body></html>

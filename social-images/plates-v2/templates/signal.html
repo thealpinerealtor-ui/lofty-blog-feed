@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8"><link rel="stylesheet" href="_base.css">
+<style>
+  body { background: #141210; }
+  .plate { background: #141210; display: flex; flex-direction: column; }
+
+  .top { padding: 72px 76px 0; }
+  .kicker { font-family: 'Inter'; font-weight: 700; font-size: 23px; letter-spacing: 0.34em; color: var(--gold); text-transform: uppercase; }
+
+  .stack { flex: 1; display: flex; flex-direction: column; justify-content: center; }
+  .line1 { padding: 26px 76px 30px; }
+  .line1 .txt { font-family: 'Archivo Black'; font-size: {{LINE1_SIZE}}px; line-height: 1.02; color: var(--cream); text-transform: uppercase; }
+  .strike { text-decoration: line-through; text-decoration-color: var(--pen); text-decoration-thickness: 8px; }
+  .block { background: var(--gold); padding: 36px 76px 42px; }
+  .block .txt { font-family: 'Archivo Black'; font-size: {{LINE2_SIZE}}px; line-height: 1.02; color: #141210; text-transform: uppercase; }
+  .sub { padding: 34px 76px 0; font-family: 'Inter'; font-weight: 400; font-size: 28px; line-height: 1.5; color: rgba(238,231,216,0.82); max-width: 900px; }
+
+  .footer { padding: 0 76px 44px; display: flex; justify-content: space-between; align-items: baseline; }
+  .footer .brand { font-family: 'Inter'; font-weight: 700; font-size: 20px; letter-spacing: 0.08em; color: var(--cream); text-transform: uppercase; }
+  .footer .brand span { color: var(--gold); }
+  .footer .phone { font-family: 'Inter'; font-weight: 600; font-size: 21px; color: var(--cream); letter-spacing: 0.03em; }
+</style></head>
+<body><div class="plate">
+  <div class="top"><div class="kicker">{{KICKER}}</div></div>
+  <div class="stack">
+    <div class="line1"><span class="txt">{{LINE1}}</span></div>
+    <div class="block"><span class="txt">{{LINE2}}</span></div>
+    <div class="sub">{{SUB}}</div>
+  </div>
+  <div class="footer">
+    <div class="brand">Ryan Berner <span>&bull;</span> West and Company</div>
+    <div class="phone">{{PHONE}}</div>
+  </div>
+</div></body></html>
