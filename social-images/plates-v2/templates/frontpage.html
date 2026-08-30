@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8"><link rel="stylesheet" href="_base.css">
+<style>
+  body { background: var(--cream); }
+  .plate { display: flex; flex-direction: column; padding: 64px 76px 56px; background: var(--cream); }
+
+  .masthead { text-align: center; }
+  .masthead .rules-top { border-top: 4px solid var(--ink); border-bottom: 1.5px solid var(--ink); height: 8px; }
+  .masthead .tag { font-family: 'Inter'; font-weight: 700; font-size: 21px; letter-spacing: 0.42em; text-indent: 0.42em; color: var(--ink); padding: 18px 0 16px; text-transform: uppercase; }
+  .masthead .rule-under { border-top: 1.5px solid var(--ink); }
+
+  .body { flex: 1; display: flex; flex-direction: column; justify-content: center; padding: 24px 0; }
+  .kicker { font-family: 'Inter'; font-weight: 700; font-size: 24px; letter-spacing: 0.24em; color: var(--gold); text-transform: uppercase; filter: brightness(0.82); }
+  .goldbar { width: 132px; height: 12px; background: var(--gold); margin: 26px 0 34px; }
+  .headline { font-family: 'Anton'; font-size: {{HEADLINE_SIZE}}px; line-height: 1.02; color: var(--ink); text-transform: uppercase; letter-spacing: 0.005em; }
+  .deck { font-family: 'Inter'; font-weight: 400; font-size: 30px; line-height: 1.45; color: var(--ink-soft); margin-top: 36px; max-width: 880px; }
+
+  .footer { border-top: 1.5px solid var(--ink); padding-top: 22px; display: flex; justify-content: space-between; align-items: baseline; }
+  .footer .brand { font-family: 'Inter'; font-weight: 700; font-size: 21px; letter-spacing: 0.08em; color: var(--ink); text-transform: uppercase; }
+  .footer .brand span { color: var(--gold); filter: brightness(0.82); }
+  .footer .phone { font-family: 'Inter'; font-weight: 600; font-size: 22px; color: var(--ink); letter-spacing: 0.03em; }
+</style></head>
+<body><div class="plate">
+  <div class="masthead">
+    <div class="rules-top"></div>
+    <div class="tag">{{TAG}}</div>
+    <div class="rule-under"></div>
+  </div>
+  <div class="body">
+    <div class="kicker">{{KICKER}}</div>
+    <div class="goldbar"></div>
+    <div class="headline">{{HEADLINE}}</div>
+    <div class="deck">{{DECK}}</div>
+  </div>
+  <div class="footer">
+    <div class="brand">Ryan Berner <span>&bull;</span> West and Company</div>
+    <div class="phone">{{PHONE}}</div>
+  </div>
+</div></body></html>

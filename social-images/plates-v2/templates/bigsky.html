@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8"><link rel="stylesheet" href="_base.css">
+<style>
+  body { background: var(--night); }
+  .plate {
+    background: linear-gradient(180deg,
+      #131E33 0%, #1B2A45 30%, #33405C 52%, #6E6273 66%, #B98D62 78%, #D8A968 86%);
+  }
+  .sun { position: absolute; left: 50%; top: 610px; width: 118px; height: 118px; margin-left: -59px;
+         border-radius: 50%; background: var(--gold-hi);
+         box-shadow: 0 0 90px 30px rgba(222,190,120,0.45); }
+  .mtn { position: absolute; left: 0; width: 1080px; }
+  .mtn.far  { bottom: 200px; }
+  .mtn.mid  { bottom: 110px; }
+  .mtn.near { bottom: 0; }
+
+  .textblock { position: absolute; left: 0; top: 96px; width: 1080px; padding: 0 90px; text-align: center; }
+  .kicker { font-family: 'Inter'; font-weight: 700; font-size: 23px; letter-spacing: 0.34em; text-indent: 0.34em; color: var(--gold-hi); text-transform: uppercase; }
+  .divider { width: 72px; height: 3px; background: var(--gold); margin: 26px auto 30px; }
+  .headline { font-family: 'DM Serif Display'; font-size: {{HEADLINE_SIZE}}px; line-height: 1.12; color: var(--cream); }
+  .sub { font-family: 'Inter'; font-weight: 400; font-size: 28px; line-height: 1.5; color: rgba(238,231,216,0.85); margin-top: 30px; }
+
+  .footer { position: absolute; left: 0; bottom: 0; width: 1080px; padding: 26px 76px 30px;
+            display: flex; justify-content: space-between; align-items: baseline; }
+  .footer .brand { font-family: 'Inter'; font-weight: 700; font-size: 20px; letter-spacing: 0.08em; color: var(--cream); text-transform: uppercase; }
+  .footer .brand span { color: var(--gold-hi); }
+  .footer .phone { font-family: 'Inter'; font-weight: 600; font-size: 21px; color: var(--cream); letter-spacing: 0.03em; }
+</style></head>
+<body><div class="plate">
+  <div class="textblock">
+    <div class="kicker">{{KICKER}}</div>
+    <div class="divider"></div>
+    <div class="headline">{{HEADLINE}}</div>
+    <div class="sub">{{SUB}}</div>
+  </div>
+  <div class="sun"></div>
+  <svg class="mtn far" height="240" viewBox="0 0 1080 240" preserveAspectRatio="none">
+    <path d="M0,240 L0,150 L120,88 L210,132 L330,44 L430,120 L540,20 L660,110 L760,60 L880,128 L980,84 L1080,140 L1080,240 Z" fill="#3A4763" opacity="0.85"/>
+  </svg>
+  <svg class="mtn mid" height="260" viewBox="0 0 1080 260" preserveAspectRatio="none">
+    <path d="M0,260 L0,140 L150,60 L260,130 L390,30 L510,140 L640,55 L780,150 L900,80 L1080,170 L1080,260 Z" fill="#232F4A"/>
+  </svg>
+  <svg class="mtn near" height="230" viewBox="0 0 1080 230" preserveAspectRatio="none">
+    <path d="M0,230 L0,118 L90,78 L200,118 L320,55 L460,118 L560,88 L700,118 L820,98 L950,118 L1080,100 L1080,230 Z" fill="#141D30"/>
+    <path d="M0,230 L0,190 L1080,165 L1080,230 Z" fill="#0E1524"/>
+  </svg>
+  <div class="footer">
+    <div class="brand">Ryan Berner <span>&bull;</span> West and Company</div>
+    <div class="phone">{{PHONE}}</div>
+  </div>
+</div></body></html>

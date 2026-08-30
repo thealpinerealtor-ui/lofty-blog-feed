@@ -1,0 +1,50 @@
+{
+  "outdir": "out/week-of-2026-08-31",
+  "phone": "(406) 709-5404",
+  "plates": [
+    {"file": "plate-1-mon-fallwindow.png", "template": "signal", "vars": {
+      "KICKER": "Flathead Market · September",
+      "LINE1": "[[strike]]Wait for spring.[[/strike]]",
+      "LINE2": "Meet the fall buyer.",
+      "SUB": "Relocating. On a timeline. Still looking in November — the June crowd never was.",
+      "LINE1_SIZE": "92", "LINE2_SIZE": "84"
+    }},
+    {"file": "plate-2-tue-opentraverse.png", "template": "fieldnotes", "vars": {
+      "TITLE": "Case notes: the stalled sale",
+      "LINES": "The decision to sell was made.\nThen one signature stopped coming.\n[[gap]]\nShowings: blocked.\nCalls: unreturned.\nGood faith, feeling punished for it.\n[[gap]]\nSo — what happens [[circle]]now?[[/circle]]",
+      "NOTE": "-> everything in writing. both sides, same information.",
+      "NOTE_TOP": "830"
+    }},
+    {"file": "plate-3-wed-snowload.png", "template": "frontpage", "vars": {
+      "KICKER": "Buying Before the Snow",
+      "HEADLINE": "September Shows You Nothing About February",
+      "DECK": "Roof and ice damming, attic ventilation, the heat and its backup, pipe runs — and who plows the road, under what agreement, at what cost.",
+      "HEADLINE_SIZE": "88"
+    }},
+    {"file": "plate-4-thu-inventory.png", "template": "fieldnotes", "vars": {
+      "TITLE": "The estate inventory",
+      "LINES": "The paperwork has a checklist.\nThe garage doesn't.\n[[gap]]\nForty years of things.\nNo obvious order.\nNobody wants to be the one\nwho throws out what mattered.\n[[gap]]\nStart with: [[circle]]documents.[[/circle]]",
+      "NOTE": "-> then keep / distribute / sell / donate. in that order.",
+      "NOTE_TOP": "830"
+    }},
+    {"file": "plate-5-fri-gateway.png", "template": "bigsky", "vars": {
+      "KICKER": "The Glacier Side of the Valley",
+      "HEADLINE": "Columbia Falls\n[[i]]and the Canyon[[/i]]",
+      "SUB": "The closest paved approach to Glacier's west entrance — and the part of the valley everyone drives through without asking what it's like to live there.",
+      "HEADLINE_SIZE": "86"
+    }},
+    {"file": "plate-6-sat-punchlist.png", "template": "frontpage", "vars": {
+      "KICKER": "The Pre-Listing Inspection",
+      "HEADLINE": "Find It Before The Buyer's Inspector Does",
+      "DECK": "On your timeline, with three bids — or under contract, with the leverage on the other side of the table. Same roof. Two very different conversations.",
+      "HEADLINE_SIZE": "88"
+    }},
+    {"file": "plate-7-sun-cadence.png", "template": "frontpage", "vars": {
+      "TAG": "West and Company · How We Work",
+      "KICKER": "Sunday · The Standard",
+      "HEADLINE": "Slow Is Smooth. Smooth Is Fast.",
+      "DECK": "The deadline calendar built the day the contract signs. The lender called before the appraisal is ordered. Nothing done twice — doing it twice is what costs the time.",
+      "HEADLINE_SIZE": "94"
+    }}
+  ]
+}

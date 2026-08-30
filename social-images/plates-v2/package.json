@@ -1,0 +1,14 @@
+{
+  "name": "plates-v2",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Plates v2 — four-template social image system for West and Company | eXp Realty (adopted 2026-08-26). Fonts are local npm packages; run `npm i` once, then `python3 render.py <spec>.json`.",
+  "dependencies": {
+    "@fontsource/anton": "^5.0.0",
+    "@fontsource/archivo-black": "^5.0.0",
+    "@fontsource/dm-serif-display": "^5.0.0",
+    "@fontsource/courier-prime": "^5.0.0",
+    "@fontsource/caveat": "^5.0.0",
+    "@fontsource/inter": "^5.0.0"
+  }
+}
