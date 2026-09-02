@@ -1,0 +1,51 @@
+{
+  "outdir": "out/week-of-2026-09-07",
+  "phone": "(406) 709-5404",
+  "plates": [
+    {"file": "plate-1-mon-ninetydays.png", "template": "signal", "vars": {
+      "KICKER": "Flathead Market · September",
+      "LINE1": "[[strike]]It's the market.[[/strike]]",
+      "LINE2": "It's your listing.",
+      "SUB": "Three weeks to contract on one street. Past ninety days on the next. Same price band — the median hides it.",
+      "LINE1_SIZE": "88", "LINE2_SIZE": "88"
+    }},
+    {"file": "plate-2-tue-neutralagent.png", "template": "fieldnotes", "vars": {
+      "TITLE": "Choosing who lists it",
+      "LINES": "Two attorneys. One house.\nOne agent, somehow.\n[[gap]]\nUsually decided fast —\na friend, or whoever called first.\nThen every conversation runs\nthrough the other side's person.\n[[gap]]\nAsk first: who is [[circle]]neutral?[[/circle]]",
+      "NOTE": "-> same information, both sides. nothing said privately.",
+      "NOTE_TOP": "830"
+    }},
+    {"file": "plate-3-wed-newbuild.png", "template": "frontpage", "vars": {
+      "KICKER": "New Construction or Resale",
+      "HEADLINE": "The Difference Is In The Contract",
+      "DECK": "Allowance lines, change orders, completion dates that move, warranty terms — and whose interests the on-site representative is actually looking after.",
+      "HEADLINE_SIZE": "92"
+    }},
+    {"file": "plate-4-thu-authority.png", "template": "fieldnotes", "vars": {
+      "TITLE": "Before anything can be listed",
+      "LINES": "The family is ready to sell.\nNobody can sign yet.\n[[gap]]\nTitle asks for letters.\nNo one explained the gap,\nso the house sits empty\nand the questions pile up.\n[[gap]]\nFirst question: [[circle]]authority.[[/circle]]",
+      "NOTE": "-> general overview only. your attorney confirms the timeline.",
+      "NOTE_TOP": "830"
+    }},
+    {"file": "plate-5-fri-mountain.png", "template": "bigsky", "vars": {
+      "KICKER": "Whitefish · Winter Access",
+      "HEADLINE": "Twenty Minutes\n[[i]]in January[[/i]]",
+      "SUB": "The same drive is a different drive in weather — and the honest trade was never about miles.",
+      "HEADLINE_SIZE": "86"
+    }},
+    {"file": "plate-6-sat-phonescreen.png", "template": "signal", "vars": {
+      "KICKER": "Selling · The Listing Media",
+      "LINE1": "[[strike]]The open house.[[/strike]]",
+      "LINE2": "A phone, four seconds.",
+      "SUB": "That is where nine out of ten buyers decide whether your house exists. The shoot day outworks the staging.",
+      "LINE1_SIZE": "88", "LINE2_SIZE": "84"
+    }},
+    {"file": "plate-7-sun-contingency.png", "template": "frontpage", "vars": {
+      "TAG": "West and Company · How We Work",
+      "KICKER": "Sunday · The Standard",
+      "HEADLINE": "Panic Is A Planning Failure",
+      "DECK": "Short appraisal. Financing gone ten days out. Something structural at inspection. Each one already has a response — decided while everything was calm.",
+      "HEADLINE_SIZE": "96"
+    }}
+  ]
+}
