@@ -20,5 +20,8 @@ SENDER: ryan@westcompanies.com
 SIGNATURE_NAME: Ryan Berner
 SIGNATURE_LINE: West and Company | Brokered by eXp Realty · Kalispell & Whitefish, MT
 NUDGE_DAY: 3
-SMS_ENABLED: false
-# ^ Flip to true at A2P approval. SMS template in TEMPLATES.md.
+SMS_ENABLED: true
+# ^ Flipped 2026-09-01 on Ryan's order — A2P campaign is live (CUSTOMER_CARE). Day-0 only, never the nudge.
+#   Number comes only from Ryan's own CLOSED: email. Mechanics and guardrails in RUNBOOK.md §7.
+SMS_FROM: +14067095404
+SMS_HOURS: 08:00-20:00 America/Denver; never Sunday; Saturday not before 11:00

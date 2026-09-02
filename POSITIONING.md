@@ -34,9 +34,11 @@
 - Divorce/estate content: compassionate, never predatory. No implication that Ryan takes sides.
 
 ## Standard bio block (append to every post)
-> Ryan Berner is a real estate agent with West and Company, brokered by eXp Realty, serving Kalispell, Whitefish, and the greater Flathead Valley. A US Army veteran and former US government Special Programs Security Officer, Ryan brings calm, disciplined execution to every transaction — especially when the circumstances are complicated. Have a question about your situation? Email Ryan directly at **ryan@westcompanies.com**, or call his office anytime at **(406) 709-5404** — the line is answered around the clock. Every conversation is confidential and no-pressure.
+> Ryan Berner is a real estate agent with West and Company, brokered by eXp Realty, serving Kalispell, Whitefish, and the greater Flathead Valley. A US Army veteran and former US government Special Programs Security Officer, Ryan brings calm, disciplined execution to every transaction — especially when the circumstances are complicated. Have a question about your situation? Email Ryan directly at **ryan@westcompanies.com**, or call or text his office anytime at **(406) 709-5404** — the line is answered around the clock. Every conversation is confidential and no-pressure.
 
 ## Contact CTA rule
-Every post's closing CTA must include BOTH contact channels: the direct email **ryan@westcompanies.com** and the office line **(406) 709-5404** (answered around the clock). On divorce and estate/probate posts, frame the phone line as the confidential option: "call anytime — the line is answered day or night, and the conversation stays confidential."
+Every post's closing CTA must include BOTH contact channels: the direct email **ryan@westcompanies.com** and the office line **(406) 709-5404** (answered around the clock). On divorce and estate/probate posts, frame the phone line as the confidential option: "call or text anytime — the line is answered day or night, and the conversation stays confidential."
 
-**SMS NOTE (until A2P approval):** Texting is NOT yet carrier-approved. Phrase the phone as "call" only — do NOT write "text" or "call or text" in any post or CTA. When the A2P campaign is approved, revert this wording to "call or text."
+**SMS NOTE (updated 2026-09-01 — A2P is LIVE):** The Twilio A2P campaign is registered and active. Blog and social CTAs may now read **"call or text"** — a reader who texts the office line first is an inbound opt-in, which is exactly what the campaign covers.
+
+What this does NOT authorize: cold outbound texting to anyone who has not opted in. The campaign is registered CUSTOMER_CARE with opt-in limited to (a) the web form and (b) people who text (406) 709-5404 first. So consumer-facing CTAs say "call or text"; unsolicited outbound to a contact who never raised their hand stays voice-and-email only.
