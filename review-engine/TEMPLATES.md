@@ -29,5 +29,5 @@ Either way — congratulations again.
 
 — Ryan
 
-## SMS (activates when SMS_ENABLED true, A2P approved)
+## SMS — DAY 0 ONLY (live since 2026-09-01; sends from +1 406-709-5404)
 {FIRST_NAME}, it's Ryan Berner. Congratulations again on closing! One quick favor — a two-minute review helps the next family find their way: {GOOGLE_REVIEW_LINK} Thank you! Reply STOP to opt out.

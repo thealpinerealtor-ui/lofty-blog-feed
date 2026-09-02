@@ -115,11 +115,29 @@ is `open`:
 Nudging someone who has already reviewed is the worst failure this engine can produce.
 Check all three signals, not just the email reply.
 
-## 7. SMS
+## 7. SMS (live since 2026-09-01)
 
-Skipped entirely while `SMS_ENABLED: false` in `CONFIG.md` (pending A2P carrier approval).
-When enabled: send the SMS template from `TEMPLATES.md` via the Vapi office line at day 0
-only, never as the nudge, and only to a phone number parsed from Ryan's `CLOSED:` email.
+`SMS_ENABLED: true` in `CONFIG.md`. Send the SMS template from `TEMPLATES.md` at **day 0 only** —
+never with the nudge — and **only** to a phone number parsed from Ryan's own `CLOSED:` email.
+No number in that email → no SMS, no lookup anywhere else.
+
+**How to send.** The same path the lead engine uses: Zapier `TwilioCLIAPI`, tool `twilio_send_sms`,
+`from_number` +14067095404, `to_number` the client's number in E.164 (+1XXXXXXXXXX), `message` the
+filled template, `split_message` yes. If that errors, fall back once to the raw Twilio Messages POST
+the lead engine documents (same account, MessagingServiceSid from the lead engine). If both fail, do
+not try a third time — the day-0 email still goes; report the SMS failure.
+
+**Guardrails, all mandatory.**
+- Time gate 08:00–20:00 America/Denver. Never Sunday. Saturday not before 11:00. Outside the gate
+  the SMS is skipped for that client, not queued; the email still goes. (The engine runs at
+  10:10 AM Mountain, so in practice this only bites on Sundays.)
+- Opt-out check first: sha256 the E.164 number and look for it in `../lead-state/dnc.txt` — present
+  → no SMS. Then GET Twilio Messages filtered To=+14067095404&From=<number>; any inbound containing
+  STOP/unsubscribe → no SMS.
+- One SMS per client, ever. The day-0 ledger row is the guard; existing row → no SMS.
+- Keep the exact string "Reply STOP to opt out." and Ryan's name. No emojis. Digits for numbers.
+- Never SMS a number you did not parse from a `CLOSED:` email — not FUB, not SureSend, not a
+  title-company email, not a guess.
 
 ## 8. DRY MODE
 
