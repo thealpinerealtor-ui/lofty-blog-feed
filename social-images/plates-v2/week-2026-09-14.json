@@ -1,0 +1,51 @@
+{
+  "outdir": "out/week-of-2026-09-14",
+  "phone": "(406) 709-5404",
+  "plates": [
+    {"file": "plate-1-mon-askclose.png", "template": "signal", "vars": {
+      "KICKER": "Flathead Market · Mid-September",
+      "LINE1": "[[strike]]The list price.[[/strike]]",
+      "LINE2": "The sale price.",
+      "SUB": "Two different numbers. The distance between them is the only honest read on the market — and almost nobody watches it.",
+      "LINE1_SIZE": "84", "LINE2_SIZE": "84"
+    }},
+    {"file": "plate-2-tue-showings.png", "template": "fieldnotes", "vars": {
+      "TITLE": "The month before it sells",
+      "LINES": "The house is listed.\nNeither of you has moved out.\n[[gap]]\nShowings, arranged by text.\nWho takes the dog Thursday.\nWho makes the beds.\n[[gap]]\nFirst fix: one written [[circle]]calendar.[[/circle]]",
+      "NOTE": "-> confirmed appointments only. nothing spouse to spouse.",
+      "NOTE_TOP": "830"
+    }},
+    {"file": "plate-3-wed-agency.png", "template": "frontpage", "vars": {
+      "KICKER": "Buyer Agency in Montana",
+      "HEADLINE": "You Signed It Before\nYou Saw The House",
+      "DECK": "Term length, whether it's exclusive, how wide the territory runs, how the agent gets paid, and what happens after it ends. All of it, on a doorstep, in ninety seconds.",
+      "HEADLINE_SIZE": "88"
+    }},
+    {"file": "plate-4-thu-emptyhouse.png", "template": "fieldnotes", "vars": {
+      "TITLE": "The house nobody lives in",
+      "LINES": "Probate is still running.\nThe house is empty.\n[[gap]]\nThe first freeze is close.\nNobody told the insurer.\nThe heat is off.\nThe drive isn't plowed.\n[[gap]]\nBefore the cold: [[circle]]vacancy.[[/circle]]",
+      "NOTE": "-> confirm the policy terms before the first hard freeze.",
+      "NOTE_TOP": "830"
+    }},
+    {"file": "plate-5-fri-larch.png", "template": "bigsky", "vars": {
+      "KICKER": "Flathead · Larch Season",
+      "HEADLINE": "Two Weeks\n[[i]]of gold[[/i]]",
+      "SUB": "A conifer that drops its needles, whole drainages turning at once — and most newcomers miss it because nobody says to look up.",
+      "HEADLINE_SIZE": "92"
+    }},
+    {"file": "plate-6-sat-terms.png", "template": "signal", "vars": {
+      "KICKER": "Selling · Reading The Offer",
+      "LINE1": "[[strike]]Best price.[[/strike]]",
+      "LINE2": "Best terms.",
+      "SUB": "Financing, earnest money, the inspection window, the closing date — and whether their own house has to sell first.",
+      "LINE1_SIZE": "96", "LINE2_SIZE": "96"
+    }},
+    {"file": "plate-7-sun-dont.png", "template": "frontpage", "vars": {
+      "TAG": "West and Company · How We Work",
+      "KICKER": "Sunday · The Standard",
+      "HEADLINE": "Sometimes The Advice\nIs Don't",
+      "DECK": "The house that checks every box but one. The offer that should be countered, not signed. Arguing against a transaction costs something — and it is still the job.",
+      "HEADLINE_SIZE": "96"
+    }}
+  ]
+}
