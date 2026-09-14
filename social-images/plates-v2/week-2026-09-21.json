@@ -1,0 +1,51 @@
+{
+  "outdir": "out/week-of-2026-09-21",
+  "phone": "(406) 709-5404",
+  "plates": [
+    {"file": "plate-1-mon-daysonmarket.png", "template": "signal", "vars": {
+      "KICKER": "Flathead Market · September",
+      "LINE1": "[[strike]]62 days.[[/strike]]",
+      "LINE2": "77 days now.",
+      "SUB": "Fifteen extra days buys another reduction down the street, a softer appraisal, and a buyer with more to compare you against.",
+      "LINE1_SIZE": "92", "LINE2_SIZE": "92"
+    }},
+    {"file": "plate-2-tue-buyoutloan.png", "template": "fieldnotes", "vars": {
+      "TITLE": "Keeping the house, alone",
+      "LINES": "\"I'll just refinance.\"\nEasy plan. Hard math.\n[[gap]]\nOne income now, not two.\nA fresh appraisal.\nThe other spouse still on\nthe loan until it funds.\n[[gap]]\nCheck first: can you [[circle]]qualify?[[/circle]]",
+      "NOTE": "-> your lender and attorney own the actual numbers.",
+      "NOTE_TOP": "830"
+    }},
+    {"file": "plate-3-wed-insurancefirst.png", "template": "frontpage", "vars": {
+      "KICKER": "Buying in the Flathead",
+      "HEADLINE": "Call The Insurer\nBefore You Write",
+      "DECK": "Roof age, wood-shake, defensible space, distance to a hydrant — any of it can change what the loan looks like. Ask before the offer, not the week before closing.",
+      "HEADLINE_SIZE": "84"
+    }},
+    {"file": "plate-4-thu-siblingbuyout.png", "template": "fieldnotes", "vars": {
+      "TITLE": "Three heirs, one house",
+      "LINES": "One wants to keep it.\nWho says what it's worth?\n[[gap]]\nNot a guess.\nNot the assessor's number.\nAn independent [[circle]]appraisal[[/circle]]\nis where it starts.",
+      "NOTE": "-> confirm valuation and payout with the estate's attorney.",
+      "NOTE_TOP": "845"
+    }},
+    {"file": "plate-5-fri-elkcamp.png", "template": "bigsky", "vars": {
+      "KICKER": "Flathead · Hunting Season",
+      "HEADLINE": "Closings\n[[i]]around camp[[/i]]",
+      "SUB": "Archery opened September 5. Backcountry rifle is already in. Half the valley is out of cell range till Sunday night.",
+      "HEADLINE_SIZE": "92"
+    }},
+    {"file": "plate-6-sat-firstcut.png", "template": "signal", "vars": {
+      "KICKER": "Selling · Pricing Strategy",
+      "LINE1": "[[strike]]Wait it out.[[/strike]]",
+      "LINE2": "Cut it early.",
+      "SUB": "Listings that take one clean reduction early are closing closer to their number than the ones waiting two weeks to cut small.",
+      "LINE1_SIZE": "92", "LINE2_SIZE": "92"
+    }},
+    {"file": "plate-7-sun-radiodiscipline.png", "template": "frontpage", "vars": {
+      "TAG": "West and Company · How We Work",
+      "KICKER": "Sunday · The Standard",
+      "HEADLINE": "Silence On The Radio\nIs Never Good News",
+      "DECK": "Every client gets a standing update the same day each week, news or no news. Three weeks of silence is what makes people assume the worst.",
+      "HEADLINE_SIZE": "80"
+    }}
+  ]
+}
