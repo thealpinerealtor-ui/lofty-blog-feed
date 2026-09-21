@@ -1,0 +1,51 @@
+{
+  "outdir": "out/week-of-2026-09-28",
+  "phone": "(406) 709-5404",
+  "plates": [
+    {"file": "plate-1-mon-ratio.png", "template": "signal", "vars": {
+      "KICKER": "Flathead Market · Late September",
+      "LINE1": "[[strike]]How much is for sale.[[/strike]]",
+      "LINE2": "How much is going pending.",
+      "SUB": "That ratio moves before price does. Right now it's telling a specific story about who has the leverage over the next thirty days.",
+      "LINE1_SIZE": "80", "LINE2_SIZE": "80"
+    }},
+    {"file": "plate-2-tue-oneagent.png", "template": "fieldnotes", "vars": {
+      "TITLE": "Selling the house together",
+      "LINES": "One agent, or two?\nMost couples never ask.\n[[gap]]\nOne neutral agent:\none version of the truth.\nTwo agents: sometimes\nlower conflict, not higher.\n[[gap]]\nThe right call depends on\nhow you're [[circle]]talking.[[/circle]]",
+      "NOTE": "-> your attorney weighs in on anything the decree already addresses.",
+      "NOTE_TOP": "800"
+    }},
+    {"file": "plate-3-wed-newvresale.png", "template": "frontpage", "vars": {
+      "KICKER": "Buying · New Build vs. Resale",
+      "HEADLINE": "Same Price Tag.\nDifferent Calendar.",
+      "DECK": "A resale can close in 30 to 45 days. A new build runs through permitting, a builder's queue, and every change order along the way — with your rate lock on the clock.",
+      "HEADLINE_SIZE": "80"
+    }},
+    {"file": "plate-4-thu-probate.png", "template": "fieldnotes", "vars": {
+      "TITLE": "Before the house can list",
+      "LINES": "Someone passed away.\nThe house sits empty.\n[[gap]]\nProbate has to grant\nauthority to sign first.\nThat step alone takes\nlonger than families expect.\n[[gap]]\nFirst question: who\nholds [[circle]]authority.[[/circle]]",
+      "NOTE": "-> confirm timing with the attorney handling the estate.",
+      "NOTE_TOP": "800"
+    }},
+    {"file": "plate-5-fri-kila.png", "template": "bigsky", "vars": {
+      "KICKER": "Flathead · West Valley",
+      "HEADLINE": "Kila\n[[i]]the quiet corner[[/i]]",
+      "SUB": "Acreage, fewer neighbors, and still twenty minutes from Kalispell — the part of the valley most newcomers never think to look at.",
+      "HEADLINE_SIZE": "92"
+    }},
+    {"file": "plate-6-sat-octlight.png", "template": "signal", "vars": {
+      "KICKER": "Selling · Marketing Photos",
+      "LINE1": "[[strike]]More photos.[[/strike]]",
+      "LINE2": "The right forty minutes.",
+      "SUB": "As the days get shorter, flat afternoon light is quietly costing listings clicks in the first 48 hours they're live.",
+      "LINE1_SIZE": "84", "LINE2_SIZE": "84"
+    }},
+    {"file": "plate-7-sun-samepage.png", "template": "frontpage", "vars": {
+      "TAG": "West and Company · How We Work",
+      "KICKER": "Sunday · The Standard",
+      "HEADLINE": "Everyone Reads\nFrom The Same Page",
+      "DECK": "Most blown deals don't fail on price. They fail because everyone was working off a slightly different version of where things stood — until one side conversation quietly drifted too far.",
+      "HEADLINE_SIZE": "84"
+    }}
+  ]
+}
