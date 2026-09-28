@@ -1,0 +1,51 @@
+{
+  "outdir": "out/week-of-2026-10-05",
+  "phone": "(406) 709-5404",
+  "plates": [
+    {"file": "plate-1-mon-concessions.png", "template": "signal", "vars": {
+      "KICKER": "Flathead Market · Early October",
+      "LINE1": "[[strike]]Sellers don't offer anything now.[[/strike]]",
+      "LINE2": "More of them are paying closing costs.",
+      "SUB": "The share of contracts with a seller concession or rate buydown is quietly telling you who has the leverage right now.",
+      "LINE1_SIZE": "72", "LINE2_SIZE": "72"
+    }},
+    {"file": "plate-2-tue-decreedeadline.png", "template": "fieldnotes", "vars": {
+      "TITLE": "The decree set a date",
+      "LINES": "The house hasn't sold.\nThe deadline is close.\n[[gap]]\nMost courts allow an\nagreed extension, or a\ntemporary co-ownership\norder while it keeps showing.\n[[gap]]\nRaise it with the attorney\nbefore it becomes an\n[[circle]]emergency.[[/circle]]",
+      "NOTE": "-> your attorney owns the decree; this is the real estate side of the timeline.",
+      "NOTE_TOP": "790"
+    }},
+    {"file": "plate-3-wed-earnestmoney.png", "template": "frontpage", "vars": {
+      "KICKER": "Buying · Earnest Money",
+      "HEADLINE": "You Wrote The Check.\nWho's Actually Holding It?",
+      "DECK": "Usually the title company, not the seller or your agent. Financing, appraisal, and inspection contingencies each protect it differently — know which before you sign.",
+      "HEADLINE_SIZE": "72"
+    }},
+    {"file": "plate-4-thu-smallestate.png", "template": "fieldnotes", "vars": {
+      "TITLE": "Before assuming full probate",
+      "LINES": "A parent has passed away.\nThe house needs to sell.\n[[gap]]\nMontana allows a simpler\nsmall estate process below\na certain threshold —\nbut real property titled\nsolely in their name\nusually needs its own\n[[circle]]path.[[/circle]]",
+      "NOTE": "-> confirm which path applies with the attorney handling the estate.",
+      "NOTE_TOP": "760"
+    }},
+    {"file": "plate-5-fri-evergreen.png", "template": "bigsky", "vars": {
+      "KICKER": "Flathead · Whitefish Stage Corridor",
+      "HEADLINE": "Evergreen\n[[i]]the middle ground[[/i]]",
+      "SUB": "Closer to town than Kila, quieter than either city center — a shorter commute to Kalispell and Whitefish than most buyers think to check.",
+      "HEADLINE_SIZE": "88"
+    }},
+    {"file": "plate-6-sat-disclosure.png", "template": "signal", "vars": {
+      "KICKER": "Selling · Disclosure Statement",
+      "LINE1": "[[strike]]Didn't confirm it? Don't disclose it.[[/strike]]",
+      "LINE2": "\"I don't know\" still has to be said.",
+      "SUB": "Montana's disclosure form runs on what you actually know, not speculation — and sitting on a known issue is a different problem entirely.",
+      "LINE1_SIZE": "66", "LINE2_SIZE": "72"
+    }},
+    {"file": "plate-7-sun-compartmentalize.png", "template": "frontpage", "vars": {
+      "TAG": "West and Company · How We Work",
+      "KICKER": "Sunday · The Standard",
+      "HEADLINE": "Feel It Later.\nDecide Clean Now.",
+      "DECK": "A lowball offer or a heated inspection fight still lands. The discipline is keeping the next decision clean while the feeling gets handled on its own time.",
+      "HEADLINE_SIZE": "80"
+    }}
+  ]
+}
