@@ -1,87 +1,90 @@
-# Week Plan — Monday September 21 – Sunday September 27, 2026
+# Week Plan — Monday October 5 – Sunday October 11, 2026
 
-**STAGING NOTE:** promote this file over the live `WEEK_PLAN.md` in the repo before Monday,
-September 21, so the daily writer produces this week's articles from these angles.
+**STAGING NOTE:** before Monday, October 5, promote this file so the daily blog writer
+produces this coming week's articles (copy over whatever is currently live as `WEEK_PLAN.md`,
+or confirm this file is already the live one). On Sunday, October 11, promote next week's plan
+the same way.
 
-Angles checked against the `posts/` archive (Jul 22 – Sep 13 published) and the staged Sep 14–20
-plan. Nothing repeats an angle from the last eight weeks.
+Angles checked against the `posts/` archive (Jul 22 – Oct 4 published, 2026). Nothing repeats
+an angle from the last eight-plus weeks.
 
-**CTA note:** A2P remains live, so every CTA this week reads **call or text** on the office line —
-a reader who texts first is an inbound opt-in, which is what the campaign covers.
+**CTA note:** A2P has been live since 2026-09-01, so every CTA this week reads **call or text**
+on the office line — (406) 709-5404, per POSITIONING.md as of this run.
 
-**Calendar note:** archery season opened September 5 and several backcountry districts are already
-in general rifle season ahead of the statewide opener in late October — that's what Friday is
-built around. Nothing else on the calendar constrains this week.
+**Calendar note:** larch color and the Kila/West Valley spotlight both ran in the last two
+weeks, so Friday moves to a different corner of the valley (Evergreen) rather than repeating
+either. Elk season closing-date content ran September 25, so hunting-calendar angles sit out
+this week.
 
-## Monday, September 21 — Local market update
-**Working title:** 62 to 77: What the Extra Two Weeks on Market Is Costing Flathead Sellers
-**Angle:** Median days on market in Kalispell has stretched from 62 a year ago to 77 now — a
-seller sitting on the sidelines waiting for "the market to come back" is measuring the wrong thing.
-Pull the current figures and walk what a longer market actually means in practice: more price
-reductions before contract, softer appraisal-gap language, buyers with more homes to compare
-against. Cody May / Leo Pareja treatment — the number first, then what a seller does with it this
-week rather than waiting for a spring that may not arrive faster.
-**Research note:** as of this writing (Movoto, data current through August 2026, page updated
-September 13, 2026): Kalispell median sale price $699,000, active listings 684, median days on
-market 77 versus 62 a year ago. Cite the Freddie Mac PMMS 30-year rate the morning this is written
-(most recent read: ~6.77–6.78% in early September 2026, per Mortgage Daily/Freddie Mac PMMS) and
-re-pull if a fresher print is available. Do not carry forward figures from the Sep 7 or Sep 14
-posts.
+## Monday, October 5 — Local market update
+**Working title:** Closing Cost Credits Are Back: How Many Flathead Sellers Are Now Paying Them
+**Angle:** For most of the last two years sellers here rarely offered to cover a buyer's closing
+costs or a rate buydown — this year that's changed, and the share of contracts including a seller
+concession is worth watching as its own indicator, separate from price. Pull current Flathead
+County figures on the share of closed contracts with a seller-paid concession or rate buydown
+over a recent window, compare to the same period last year, and explain what a rising concession
+rate signals about negotiating leverage for both a buyer writing an offer and a seller pricing
+one. Cody May / Leo Pareja treatment — the figure first, then what it means for you this week.
+**Research note:** re-pull current Flathead County concession/buydown share and the Freddie Mac
+PMMS 30-year rate the morning this is written. Cite source and period. Do not carry forward
+figures from the Sep 21 or Sep 28 posts.
 
-## Tuesday, September 22 — Divorce home sales
-**Working title:** The Buyout Loan: Why Refinancing to Keep the House Is Harder Than It Sounds
-**Angle:** "I'll just refinance and keep the house" is the plan almost every spouse floats first,
-and it's the one that falls apart the most. Process-only walkthrough of what a buyout refinance
-actually requires: qualifying on one income and one set of debts instead of two, a fresh appraisal
-that may not match the number written into the settlement, the spouse being bought out staying on
-the loan (and the liability) until the refinance actually closes, timing the closing against a
-settlement deadline, and what happens if the refinancing spouse can't qualify for the full amount.
-Empathetic, no side-taking. "Your lender and your attorney own the numbers — this is the sequence
-only."
+## Tuesday, October 6 — Divorce home sales
+**Working title:** What Happens If the House Doesn't Sell Before the Divorce Is Final
+**Angle:** A decree can set a deadline for selling the marital home that the market doesn't
+always cooperate with. Walk through what actually happens when a listing is still active — or
+the house hasn't sold at all — as the finalization date approaches: options courts and attorneys
+commonly use (extending the deadline by agreement, converting to a temporary co-ownership order,
+one spouse buying out the other on a compressed timeline), how carrying costs get handled in the
+interim, and why flagging this risk with the attorney before listing beats discovering it near
+the deadline. Empathetic, process-only, no side-taking. "Your attorney owns anything the decree
+itself controls — this is about the real estate side of the timeline."
 
-## Wednesday, September 23 — Buyer guides
-**Working title:** Insurance First, Offer Second: What Flathead Buyers Skip Until It's Too Late
-**Angle:** Buyers spend weeks comparing floor plans and school districts, then call an insurance
-carrier for the first time the week before closing — sometimes after the offer is already in.
-Practical, checklist-style: calling a carrier before writing on a property in a wildfire-interface
-area, what roof age and wood-shake do to a quote, defensible-space and water-source questions rural
-carriers ask, how a hard-to-place property can quietly kill a loan approval, and why "get a quote"
-belongs on the pre-offer list, not the closing-week list. Frame it as a tool that protects the offer,
-not a hurdle.
+## Wednesday, October 7 — Buyer guides
+**Working title:** Earnest Money in Montana: How Much, Who Holds It, and When You Get It Back
+**Angle:** Buyers routinely write a check for earnest money without understanding what it
+actually protects or when they can lose it. Cover typical earnest money ranges in this market,
+who holds it (usually the title company, not the seller or agent), the contingencies that let a
+buyer walk away and keep the deposit (financing, appraisal, inspection) versus the ones that
+don't, and the timeline for getting it refunded or applied to closing. Plain, concrete, no
+scare tactics — the goal is a buyer who understands the check before they write it.
 
-## Thursday, September 24 — Estate & probate sales
-**Working title:** The Sibling Buyout: How Heirs Actually Price One Person Keeping the House
-**Angle:** When three siblings inherit a house and one wants to keep it, the math is where the
-disagreement actually starts. Plain-English walkthrough: why an independent appraisal (not a
-sibling's guess, not the county assessor's number) is the starting point everyone can agree to,
-how the buying sibling typically finances the other shares, splitting closing-style costs that
-don't exist in a normal sale, what happens if the appraisal comes in lower than a sibling expected,
-and the timeline pressure probate puts on the decision. Compassionate, process-only. Disclaimer:
-confirm valuation method and distribution mechanics with the estate's attorney and CPA.
+## Thursday, October 8 — Estate & probate sales
+**Working title:** Does Every Montana Estate Need Formal Probate? Small Estate Affidavits,
+Explained
+**Angle:** Heirs often assume any home sale after a death requires a full probate case; Montana
+actually allows a simplified small estate affidavit process below a certain personal-property
+threshold, and real property has its own separate path. Walk through the practical distinction
+a family needs to know early: what qualifies for the simplified process, what still requires
+formal probate regardless of estate size (real estate titled solely in the decedent's name
+almost always does), and why guessing wrong here costs the family weeks. Compassionate,
+concrete, disclaimer: "an estate attorney confirms which path actually applies here — this is a
+starting orientation, not a determination."
 
-## Friday, September 25 — Community & lifestyle
-**Working title:** Elk Camp and Closing Dates: What Hunting Season Does to a Flathead Calendar
-**Angle:** Archery season opened September 5, backcountry rifle districts are already in, and for
-a meaningful share of Flathead buyers and sellers the next six weeks revolve around camp, not
-closing dates. What that means in practice for anyone transacting right now: scheduling
-inspections and walkthroughs around opening weekends, why "available anytime" showings quietly
-stop working in October, and how Ryan — who hunts the valley himself — builds a closing calendar
-that doesn't assume everyone's phone is in cell range. Lifestyle and logistics only, written as a
-local, not a pitch.
+## Friday, October 9 — Community & lifestyle
+**Working title:** Evergreen: The Overlooked Middle Ground Between Kalispell and Whitefish
+**Angle:** A spotlight on Evergreen, the unincorporated area just north of Kalispell along the
+Whitefish Stage corridor — closer to town than Kila, quieter than either city center, with its
+own school district and a shorter commute to both Kalispell's core and Whitefish than most
+buyers assume. Amenities and geography only: drive times, school access, the mix of acreage and
+in-town-adjacent lots, proximity to the river. No characterization of who lives there — describe
+the place, not the people.
 
-## Saturday, September 26 — Seller guides
-**Working title:** The First Price Cut: How Long to Wait, and How Much
-**Angle:** Conventional wisdom says hold your price and let the market come to you; the current
-data says the sellers who cut early and cut meaningfully are closing closer to their number than
-the ones who wait. Contrarian, either/or framing: the two-week temptation to "give it more time,"
-what a too-small first cut signals to agents watching the MLS, why one clean reduction outperforms
-three small ones, and how to size the first cut off actual comparables instead of a round number.
-Complements Monday's days-on-market math from the seller's chair.
+## Saturday, October 10 — Seller guides
+**Working title:** Montana's Seller Disclosure Statement: What You Actually Have to Tell Buyers
+**Angle:** A lot of sellers either over-disclose out of anxiety or under-disclose thinking "I
+didn't confirm it, so I don't have to say it" — both create problems. Cover what Montana's
+seller disclosure form actually requires (known material defects, not speculation or things
+never confirmed), the difference between "I don't know" and hiding a known issue, how disclosure
+interacts with an as-is sale, and what happens if something surfaces after closing that should
+have been disclosed. Practical and myth-correcting, not alarmist. Disclaimer: "your agent and
+an attorney can walk through anything borderline before you sign."
 
-## Sunday, September 27 — Brand / authority
-**Working title:** Radio Discipline: Why Clients Get a Weekly Update, Not Just the Big News
-**Angle:** In the work Ryan came from, silence on the radio wasn't reassuring — it meant nobody
-knew what was happening. Applied to real estate: why every client gets a standing weekly update
-whether or not there's anything to report, what that discipline prevents (the three-week silent
-stretch that makes clients assume the worst), and why "no news" is itself information worth
-sending. Anonymized, no war stories, no hype — the standard, plainly stated.
+## Sunday, October 11 — Brand / authority
+**Working title:** Compartmentalize: The Skill That Keeps a Hard Negotiation Calm
+**Angle:** A habit carried over from a higher-stakes line of work: separating what's happening
+emotionally in a negotiation from what needs to happen next, without pretending the emotion
+isn't there. Applied to real estate — a lowball offer, an inspection fight, a buyer or seller
+who's taking it personally — the discipline isn't coldness, it's keeping the next decision clean
+while the feeling gets its own space later. No agency named, no war stories, the standard
+plainly stated.
