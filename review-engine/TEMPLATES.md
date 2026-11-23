@@ -8,9 +8,11 @@ Body:
 
 Congratulations again. Handing over those keys never gets old for me, and walking through this with you was the best part of my month.
 
-One small favor, and I'll only ask once: would you take two minutes and share what the experience was like? Reviews are how the next family — someone in exactly the spot you were in a few months ago — decides who they can trust.
+One small favor: would you take two minutes and share what the experience was like? Google is the most helpful place for the next family choosing an agent:
+https://g.page/r/CQP9LqVF1Q7BEAE/review
 
-{GOOGLE_REVIEW_LINK}
+If you also have a minute for Zillow, that helps too:
+https://www.zillow.com/reviews/write?s=X1-ZUrpeex33ntrt5_6wmna
 
 Whatever you write, thank you. And you know where I am — for the next question, the next move, or just a market question two years from now. This line doesn't go cold after closing.
 
@@ -21,9 +23,8 @@ Whatever you write, thank you. And you know where I am — for the next question
 Subject: Re: It was an honor, {FIRST_NAME}
 
 Body:
-{FIRST_NAME} — no pressure at all, just floating this back to the top of your inbox. Two minutes, and it genuinely matters more than you'd think:
-
-{GOOGLE_REVIEW_LINK}
+{FIRST_NAME} — no pressure at all, just floating this back up. The Google link is the one that helps most:
+https://g.page/r/CQP9LqVF1Q7BEAE/review
 
 Either way — congratulations again.
 

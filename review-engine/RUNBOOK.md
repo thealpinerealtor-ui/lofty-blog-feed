@@ -177,6 +177,11 @@ listing-side file would have addressed the request to the opposing party. Fixed 
 ("Either one is a gift — whichever is easier for you"). Root cause: the word "zillow"
 was matched in transaction mail from Zillow Home Loans, the buyer's lender, rather than
 in a `CLOSED:` trigger. Fixed by §2.
+*Update 2026-11-17 (Ryan):* sending a second link is no longer the defect. The day-0
+ask now leads with Google and offers Zillow as a secondary line ("If you also have a
+minute for Zillow, that helps too"), per `TEMPLATES.md`; the "one link only" requirement
+is dropped. Still banned: any phrasing that presents the two as equal choices, such as
+"Either one is a gift — whichever is easier for you." The nudge stays Google only.
 
 **2026-08-21 — review landed but ledger said `open`.** The client left a 5-star Google
 review 20 minutes after the day-0 email. The engine's response check looked only for an
